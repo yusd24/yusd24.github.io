@@ -5,7 +5,7 @@ title: Teaching
 description: Materials for courses. 
 nav: true
 nav_order: 6
-display_categories: [Fall 2024, Spring 2024, Fall 2023]
+display_categories: [Srping 2025, Fall 2024, Spring 2024, Fall 2023]
 horizontal: true
 ---
 
