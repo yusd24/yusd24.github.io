@@ -451,6 +451,11 @@ ninja.data = [{
           description: "代數拓墣導論",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2024spring_introAT/";
+            },},{id: "projects-linear-algebra-2",
+          title: 'Linear Algebra (2)',
+          description: "線性代數二",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2025spring_LA/";
             },},{id: "projects-project-2",
           title: 'project 2',
           description: "a project with a background image and giscus comments",
