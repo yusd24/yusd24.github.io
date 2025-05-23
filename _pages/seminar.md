@@ -7,7 +7,7 @@ nav_order: 4
 description: Seminars
 ---
 
-## **2025 NCKU Algebraic Geometry student seminar**
+### **2025 NCKU algebraic geometry student seminar**
 ###### **Venue**: Department of Mathematics, NCKU.
 ###### **Date**: 2025 June - July.
 ###### **Aim and Scope**:
