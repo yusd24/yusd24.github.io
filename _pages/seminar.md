@@ -18,13 +18,13 @@ in algebraic geometry or some related subject, at times bringing
 in outside material in the forms of more advanced textbook material. 
 
 
-The topics include:
+We shall begin with the following topics.
 
  - Sheaves and sheaf cohomology (Cech cohomology)
  - Laguange of schemes
  - Divisors, line bundles, linear systems
 
-Some advanced topics:
+If time permits, we will also discuss some advanced topics, including
 
  - Affineness of schemes
  - Canonical embedding of curves
@@ -33,8 +33,10 @@ Some advanced topics:
  - Moduli functors and Hilbert schemes
 
 ###### **References**
- - Algebraic Geometry, Hartshorne
- - 
+ - Algebraic Geometry, R. Hartshorne
+ - Complex Algebraic Surfaces, A. Beauville
+ - Rational curves on algebraic varieties, J. Kollar
+ - Fundamental algebraic geometry: Grothendieck’s FGA explained, Fantechi et al.
 
 ###### **Organizers**
  - Ching-Jui Lai (NCKU)
