@@ -4,7 +4,7 @@ permalink: /seminars/
 title: Seminars
 nav: true
 nav_order: 4
-description: Seminars
+description: 
 ---
 
 ### **2025 NCKU algebraic geometry student seminar**
@@ -36,10 +36,10 @@ If time permits, we will also discuss some advanced topics, including
 We plan to hold the first meeting in mid-June. 
 
 ###### **References**
- - Algebraic Geometry, R. Hartshorne
- - Complex algebraic surfaces, A. Beauville
- - Rational curves on algebraic varieties, J. Kollar
- - Fundamental algebraic geometry: Grothendieck’s FGA explained, Fantechi et al.
+ - [R] Algebraic Geometry, R. Hartshorne
+ - [B] Complex algebraic surfaces, A. Beauville
+ - [K] Rational curves on algebraic varieties, J. Kollar
+ - [FGA] Fundamental algebraic geometry: Grothendieck’s FGA explained, Fantechi et al.
 
 
 ###### **Organizers**
