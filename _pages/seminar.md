@@ -25,7 +25,7 @@ We shall begin with the following topics.
  - Languange of schemes
  - Divisors, line bundles, linear systems
 
-If time permits, we will also discuss some advanced topics, including
+If time permits, we will also discuss some advanced topics. The tentative targets might include
 
  - Cohomological criterion for affineness of schemes
  - Canonical systems of non-singular complete curves
