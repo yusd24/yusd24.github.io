@@ -21,17 +21,17 @@ in outside material in the forms of more advanced textbook material.
 
 We shall begin with the following topics.
 
- - Sheaves and sheaf cohomology (via Cech cohomology)
- - Languange of schemes
- - Divisors, line bundles, linear systems
+ - Sheaves and sheaf cohomology (via Cech cohomology) [R, II.1, III.4-III.5]
+ - Languange of schemes [R, II.2-II.4]
+ - Divisors, line bundles, linear systems [R, II.5-II.7]
 
 If time permits, we will also discuss some advanced topics. The tentative targets might include
 
- - Cohomological criterion for affineness of schemes
- - Canonical systems of non-singular complete curves
- - Castelnuovo's contraction theorem and strong factorization
- - Intersection theory (via asymptotic Riemann--Roch)
- - Moduli functors and Hilbert schemes
+ - Cohomological criterion for affineness of schemes [R, III.3]
+ - Canonical systems of non-singular complete curves [R, VI]
+ - Castelnuovo's contraction theorem and strong factorization [B]
+ - Intersection theory (via asymptotic Riemann--Roch) [K, Appendix]
+ - Moduli functors and Hilbert schemes [FGA]
 
 We plan to hold the first meeting in mid-June. 
 
