@@ -21,14 +21,14 @@ in outside material in the forms of more advanced textbook material.
 
 We shall begin with the following topics.
 
- - Sheaves and sheaf cohomology (via Cech cohomology) [R, II.1, III.4-III.5]
- - Languange of schemes [R, II.2-II.4]
- - Divisors, line bundles, linear systems [R, II.5-II.7]
+ - Sheaves and sheaf cohomology (via Cech cohomology) [H, II.1, III.4-III.5]
+ - Languange of schemes [H, II.2-II.4]
+ - Divisors, line bundles, linear systems [H, II.5-II.7]
 
 If time permits, we will also discuss some advanced topics. The tentative targets might include
 
- - Cohomological criterion for affineness of schemes [R, III.3]
- - Canonical systems of non-singular complete curves [R, VI]
+ - Cohomological criterion for affineness of schemes [H, III.3]
+ - Canonical systems of non-singular complete curves [H, VI]
  - Castelnuovo's contraction theorem and strong factorization [B]
  - Intersection theory (via asymptotic Riemann--Roch) [K, Appendix]
  - Moduli functors and Hilbert schemes [FGA]
@@ -36,7 +36,7 @@ If time permits, we will also discuss some advanced topics. The tentative target
 We plan to hold the first meeting in mid-June. 
 
 ###### **References**
- - [R] Algebraic Geometry, R. Hartshorne
+ - [H] Algebraic Geometry, R. Hartshorne
  - [B] Complex algebraic surfaces, A. Beauville
  - [K] Rational curves on algebraic varieties, J. Kollar
  - [FGA] Fundamental algebraic geometry: Grothendieck’s FGA explained, Fantechi et al.
