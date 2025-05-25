@@ -7,6 +7,8 @@ nav_order: 3
 description: Recent events
 ---
 
+<hr style="border:2px solid gray">
+
 ## **2024 TIMS Summer Program in Geometry**
 ###### **Venue**: R202, Astronomy Mathematics Bldg., NTU
 ###### **Date**: 7/10-7/20
@@ -73,4 +75,5 @@ Visit our [official website](https://www.tims.ntu.edu.tw/modules/news/article.ph
 
 -------
 
+<hr style="border:2px solid gray">
 
