@@ -8,15 +8,14 @@ description:
 ---
 
 ### **2025 NCKU algebraic geometry student seminar**
-###### **Venue**: Department of Mathematics, NCKU.
-###### **Date**: 2025 June - July.
-###### **Aim and Scope**:
+##### **Venue**: Department of Mathematics, NCKU.
+##### **Date**: 2025 June - July.
+##### **Aim and Scope**:
 
 This seminar aims to train participants fundamentals in
 algebraic geometry to prepare for future research.
 We plan to cover basic tools and rudiments in algebraic geometry
-by working through specific textbooks 
-in algebraic geometry or some related subject, at times bringing 
+by working through standard textbooks, at times bringing 
 in outside material in the forms of more advanced textbook material. 
 
 We shall begin with the following topics.
@@ -31,7 +30,7 @@ If time permits, we will also discuss some advanced topics. The tentative target
  - Canonical systems of non-singular complete curves [H, VI]
  - Castelnuovo's contraction theorem and strong factorization [B]
  - Intersection theory (via asymptotic Riemann--Roch) [K, Appendix]
- - Moduli functors and Hilbert schemes [FGA]
+ - Moduli functors and Hilbert schemes [FAG]
 
 We plan to hold the first meeting in mid-June. 
 
@@ -39,8 +38,7 @@ We plan to hold the first meeting in mid-June.
  - [H] Algebraic Geometry, R. Hartshorne
  - [B] Complex algebraic surfaces, A. Beauville
  - [K] Rational curves on algebraic varieties, J. Kollar
- - [FGA] Fundamental algebraic geometry: Grothendieck’s FGA explained, Fantechi et al.
-
+ - [FAG] Fundamental algebraic geometry: Grothendieck’s FGA explained, Fantechi et al.
 
 ###### **Organizers**
  - Ching-Jui Lai (NCKU)
