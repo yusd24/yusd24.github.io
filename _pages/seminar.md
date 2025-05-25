@@ -37,7 +37,7 @@ We plan to hold the first meeting in mid-June.
 ###### **References**
  - [H] Algebraic Geometry, R. Hartshorne
  - [B] Complex algebraic surfaces, A. Beauville
- - [K] Rational curves on algebraic varieties, J. Koll\'ar
+ - [K] Rational curves on algebraic varieties, J. Kollár
  - [FAG] Fundamental algebraic geometry: Grothendieck’s FGA explained, B. Fantechi et al.
 
 ###### **Organizers**
