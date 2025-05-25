@@ -8,9 +8,9 @@ description:
 ---
 
 ### **2025 NCKU algebraic geometry student seminar**
-##### **Venue**: Department of Mathematics, NCKU.
-##### **Date**: 2025 June - July.
-##### **Aim and Scope**:
+###### **Venue**: Department of Mathematics, NCKU.
+###### **Date**: 2025 June - July.
+###### **Aim and Scope**:
 
 This seminar aims to train participants fundamentals in
 algebraic geometry to prepare for future research.
@@ -44,5 +44,5 @@ We plan to hold the first meeting in mid-June.
  - Ching-Jui Lai (NCKU)
  - Tsung-Ju Lee (NCKU)
 
-
+---
 
