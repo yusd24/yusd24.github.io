@@ -37,8 +37,8 @@ We plan to hold the first meeting in mid-June.
 ###### **References**
  - [H] Algebraic Geometry, R. Hartshorne
  - [B] Complex algebraic surfaces, A. Beauville
- - [K] Rational curves on algebraic varieties, J. Kollar
- - [FAG] Fundamental algebraic geometry: Grothendieck’s FGA explained, Fantechi et al.
+ - [K] Rational curves on algebraic varieties, J. Koll\'ar
+ - [FAG] Fundamental algebraic geometry: Grothendieck’s FGA explained, B. Fantechi et al.
 
 ###### **Organizers**
  - Ching-Jui Lai (NCKU)
