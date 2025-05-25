@@ -44,5 +44,5 @@ We plan to hold the first meeting in mid-June.
  - Ching-Jui Lai (NCKU)
  - Tsung-Ju Lee (NCKU)
 
----
+<hr style="border:1.5px solid gray">
 
