@@ -11,7 +11,7 @@ description:
 ##### **Venue**: Department of Mathematics, NCKU.
 ##### **Date**: 2025 June - July.
 
-###### **6/9 11:00-13:00 Ching-Jui Lai (NCKU), Birational geometry of complex projective surfaces, a brief introduction [Link](https://math.ncku.edu.tw/p/406-1221-283478,r3765.php?Lang=zh-tw)
+###### **6/9 11:00-13:00** Ching-Jui Lai (NCKU), Birational geometry of complex projective surfaces, a brief introduction [Link](https://math.ncku.edu.tw/p/406-1221-283478,r3765.php?Lang=zh-tw)
 
 
 ##### **Aim and Scope**:
