@@ -1,6 +1,7 @@
 ---
 title: "Calculus (1)"
 collection: teaching
+category: 2025-fall
 type: "Undergraduate course"
 permalink: /teaching/2025-fall-calculus
 venue: "NCKU, CSIE"
