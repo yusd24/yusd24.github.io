@@ -1,9 +1,10 @@
 ---
 title: "Algebraic Geometry (1)"
+collection: teaching
 type: "Graduate course"
 permalink: /teaching/2025-fall-AG1/
 venue: "NCKU, Department of Mathematics"
-date: 2025-09-01
+date: 2025-06-01
 location: "Taiwan, Taiwan"
 ---
 
