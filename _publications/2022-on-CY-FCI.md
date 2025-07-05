@@ -1,6 +1,7 @@
 ---
 title: "On Calabi–Yau fractional complete intersections"
 collection: publications
+category: manuscripts
 permalink: /publication/2022-on-CY-FCI
 date: 2022-02-10
 venue: 'Pure and Applied Mathematics Quarterly'
