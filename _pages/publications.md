@@ -15,7 +15,7 @@ author_profile: true
    {% include archive-single.html %}
 {% endfor %} 
 
-<!-- New style rendering if publication categories are defined -->
+
 {% if site.publication_category %}
   {% for category in site.publication_category  %}
     {% assign title_shown = false %}
