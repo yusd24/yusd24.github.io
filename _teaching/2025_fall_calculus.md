@@ -2,9 +2,9 @@
 title: "Calculus (1)"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2025_fall_calculus
+permalink: /teaching/2025-fall-calculus
 venue: "NCKU, CSIE"
-date: 2025-09-01
+date: 2025-07-01
 location: "Taiwan, Taiwan"
 ---
 
