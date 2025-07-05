@@ -8,3 +8,10 @@ title: "Teaching"
     - Calculus
     - Introduction to algebraic geometry 
     
+{% include base_path %}
+
+{% assign ordered_pages = site.teaching | sort:"order_number" %}
+
+{% for post in ordered_pages %}
+  {% include archive-single.html type="grid" %}
+{% endfor %}
