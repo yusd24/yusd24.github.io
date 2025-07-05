@@ -11,7 +11,5 @@ location: "Taiwan, Taiwan"
 
 &nbsp;
 
-Here is the information.
 
-Can you see this line?
 
