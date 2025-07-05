@@ -1,5 +1,5 @@
 ---
-title: "Non-commutative resolutions as mirror of singular Calabi–Yau varieties"
+title: "Non-commutative resolutions as mirrors of singular Calabi–Yau varieties"
 collection: publications
 category: preprints
 permalink: /publication/2023-NC-resolution
