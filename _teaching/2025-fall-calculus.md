@@ -1,4 +1,5 @@
 ---
+layout: archive
 title: "Calculus (1)"
 collection: teaching
 category: 2025-fall
