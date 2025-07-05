@@ -16,6 +16,10 @@ redirect_from:
 
 ## Work experience
 
+* Assistant Professor
+  * Duration: 2023/09/01 - NOW
+  * Affiliation: NCKU
+
 * Postdoctoral Fellow
   * Duration: 2018/12/16 - 2023/08/31
   * Affiliation: Harvard CMSA
@@ -23,28 +27,13 @@ redirect_from:
 * Visiting Scholar
   * Duration: 2018/09/01 - 2018/12/15
   * Affiliation: Harvard CMSA
-  
-## Skills
-
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 ## Publications
 
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-## Talks
 
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
 ## Teaching
 
   <ul>{% for post in site.teaching reversed %}
