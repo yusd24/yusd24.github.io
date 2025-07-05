@@ -1,7 +1,8 @@
 ---
-permalink: /teaching/
-collection: teaching
+layout: archive
 title: "Teaching"
+permalink: /teaching/
+author_profile: true
 ---
 
 ## National Cheng Kung University
