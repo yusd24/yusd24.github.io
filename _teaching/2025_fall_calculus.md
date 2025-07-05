@@ -1,11 +1,10 @@
 ---
 title: "Calculus (1)"
-layout: single-portfolio
-excerpt: "<img src='/images/research/epr.png' alt=''>"
 collection: teaching
+type: "Undergraduate course"
 permalink: /teaching/2025_fall_calculus
-order_number: 1
-header: 
-  og_image: "research/epr.png"
+venue: "NCKU, CSIE"
+date: 2025-09-01
+location: "Taiwan, Taiwan"
 ---
 
