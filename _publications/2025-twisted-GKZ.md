@@ -1,6 +1,7 @@
 ---
 title: 'Twisted GKZ hypergeometric functions and relative homology'
-collection: manuscripts
+collection: publications
+category: manuscripts
 permalink: /publication/2025-twisted-GKZ
 date: 2024-12-12
 venue: 'Mathematische Annalen'
