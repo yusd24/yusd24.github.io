@@ -1,6 +1,7 @@
 ---
 title: 'Period domains for gravitational instantons'
 collection: publications
+category: manuscripts
 permalink: /publication/2023-periods-gravitational-instantons
 date: 2023-05-17
 venue: 'Transactions of the American Mathematical Society'
