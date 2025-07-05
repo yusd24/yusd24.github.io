@@ -1,6 +1,7 @@
 ---
 title: 'SYZ mirror symmetry for del Pezzo surfaces and affine structures'
 collection: publications
+category: manuscripts
 permalink: /publication/2024-SYZ-affine-structure-del-pezzo
 date: 2024-01-18
 venue: 'Advances in Mathematics'
