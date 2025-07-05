@@ -1,6 +1,6 @@
 ---
 title: "Calculus (1)"
-description: 微積分一
+description: 微積分一（資源系、環工系）
 collection: teaching
 category: 2023-fall
 type: "Undergraduate course"
