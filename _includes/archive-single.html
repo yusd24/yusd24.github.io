@@ -42,7 +42,7 @@
     {% endif %}
 
     {% if post.collection == 'teaching' %}
-      <p><h4> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </h4></p>
+      <h3><p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p></h3>
     {% elsif post.collection == 'publications' %}
       {% if post.abstract %}
         <details><summary>Abstract</summary>
