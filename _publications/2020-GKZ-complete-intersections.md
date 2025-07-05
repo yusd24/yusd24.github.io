@@ -1,6 +1,7 @@
 ---
 title: "<i>A</i>-hypergeometric systems and relative cohomology"
 collection: publications
+category: manuscripts
 permalink: /publication/2020-GKZ-complete-intersections
 date: 2020-11-11
 venue: 'International Journal of Mathematics'
