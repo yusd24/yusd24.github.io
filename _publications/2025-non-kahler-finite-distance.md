@@ -1,5 +1,5 @@
 ---
-title: 'Finite distance problem on the moduli of non-Kähler Calabi–Yau %\partial\bar{\partial}$-threefolds'
+title: 'Finite distance problem on the moduli of non-Kähler Calabi–Yau $\partial\bar{\partial}$-threefolds'
 collection: publications
 permalink: /publication/2025-non-kahler-finite-distance
 date: 2025-03-19
