@@ -1,11 +1,11 @@
 ---
-title: "They're Still There, He's All Gone: American Fatalities in Foreign Wars and Right-Wing Radicalization at Home"
+title: 'Period domains for gravitational instantons'
 collection: publications
 permalink: /publication/2023-parler
 date: 2023-10-01
-venue: 'American Political Science Review'
-paperurl: "/files/pdf/research/They're Still Here.pdf"
-link: 'https://doi.org/10.1017/S0003055423000904'
-code: 'https://doi.org/10.7910/DVN/4GLPII'
-citation: "McAlexander, Richard J., Michael A. Rubin, and Rob Williams. 2024. &quot;They're Still There, He's All Gone: American Fatalities in Foreign Wars and Right-Wing Radicalization at Home.&quot; <i>American Political Science Review</i> 118(3):1577-1583. doi:10.1017/S0003055423000904"
+venue: 'Transactions of the American Mathematical Society'
+paperurl: 'https://arxiv.org/abs/2208.13083'
+link: 'https://doi.org/10.1090/tran/8856'
+citation: 'Tsung-Ju Lee and Yu-Shen Lin. <i>Period domains for gravitational instantons</i>. 
+Transactions of the American Mathematical Society <b>376</b> (2023), 5461–5501 doi: 10.1090/tran/8856'
 ---
