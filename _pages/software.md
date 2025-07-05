@@ -1,5 +1,5 @@
 ---
-permalink: /seminar/
+permalink: /seminars/
 title: "Seminars"
 gallery:
   - url: software/table.png
