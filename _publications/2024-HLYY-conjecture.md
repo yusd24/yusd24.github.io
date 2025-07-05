@@ -1,6 +1,7 @@
 ---
 title: 'On a conjecture of Huang–Lian–Yau–Yu'
 collection: publications
+category: manuscripts
 permalink: /publication/2024-HLYY-conjecture
 date: 2024-08-09
 venue: 'Communications in Analysis and Geometry'
