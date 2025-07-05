@@ -1,6 +1,7 @@
 ---
 title: "On the complex affine structures of SYZ fibration of del Pezzo surfaces"
 collection: publications
+category: manuscripts
 permalink: /publication/2023-SYZ-del-pezzo-p2
 date: 2023-06-30
 venue: 'Advances in Theoretical and Mathematical Physics'
