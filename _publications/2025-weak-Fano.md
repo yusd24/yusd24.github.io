@@ -1,5 +1,5 @@
 ---
-title: "A supplement to the anticanonical volumes of weak $\bf{Q}$-Fano threefolds of Picard rank two"
+title: "A supplement to the anticanonical volumes of weak $\textbf{Q}$-Fano threefolds of Picard rank two"
 collection: publications
 category: preprints
 permalink: /publication/2025-weak-Fano
