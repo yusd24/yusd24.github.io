@@ -6,9 +6,6 @@ author_profile: true
 ---
 
 ## National Cheng Kung University
-- 2025 Fall
-    - Calculus
-    - Introduction to algebraic geometry 
     
 {% include base_path %}
 
