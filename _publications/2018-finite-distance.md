@@ -1,6 +1,7 @@
 ---
 title: "A Hodge theoretic criterion for finite Weil–Petersson degenerations over a higher dimensional base"
 collection: publications
+category: manuscripts
 permalink: /publication/2018-finite-distance
 date: 2018-07-05
 venue: 'Mathematical Research Letters'
