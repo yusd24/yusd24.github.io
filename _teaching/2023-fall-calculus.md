@@ -4,7 +4,7 @@ description: 微積分一
 collection: teaching
 category: 2023-fall
 type: "Undergraduate course"
-permalink: /teaching/2025-fall-calculus
+permalink: /teaching/2023-fall-calculus
 venue: "NCKU"
 date: 2023-09-01
 location: "Taiwan, Taiwan"
