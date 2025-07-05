@@ -1,5 +1,6 @@
 ---
 permalink: /teaching/
+collection: teaching
 title: "Teaching"
 ---
 
