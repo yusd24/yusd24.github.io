@@ -56,22 +56,21 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-#mastodon:
-#  username               : 
-#twitter:
-#  username               : 
-#facebook:
-#  username               :
-#  app_id                 :
-#  publisher              :
-#og_image                 : # Open Graph/Twitter default site image
+mastodon:
+  username               : false
+twitter:
+  username               : 
+facebook:
+  username               :
+  app_id                 :
+  publisher              :
+og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
-#social:
-#  type                   : # Person or Organization (defaults to Person)
-#  name                   : # If the user or organization name differs from the site's name
-#  links: # An array of links to social media profiles
-
+social:
+  type                   : # Person or Organization (defaults to Person)
+  name                   : # If the user or organization name differs from the site's name
+  links: # An array of links to social media profiles
 
 # Analytics
 analytics:
@@ -87,8 +86,8 @@ author:
   name             : "Tsung-Ju Lee"
   avatar           : ""
   bio              : "PhD in Mathematics"
-  location         :
-  employer         :
+  location         : "Tainan, Taiwan"
+  employer         : "National Cheng Kung University"
   pubmed           :
   orcid            : "http://orcid.org/"
   googlescholar    : "https://scholar.google.com/"
