@@ -1,6 +1,6 @@
 ---
 title: 'Finite distance problem on the moduli of non-Kähler Calabi–Yau $\partial\bar{\partial}$-threefolds'
-collection: conference
+collection: research
 permalink: /publication/2025-preprints
 date: 2025-03-19
 venue: 'Mathematische Annalen'
