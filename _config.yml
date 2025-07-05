@@ -132,6 +132,20 @@ publication_category:
   conferences:
     title: 'Conference Proceedings'
 
+# Teaching category
+teaching_category:
+  2025-fall:
+    title: '2025 Fall'
+  2025-spring:
+    title: '2025 Spring'
+  2024-fall:
+    title: '2024 Fall'
+  2024-spring:
+    title: '2024 Spring'
+  2023-fall:
+    title: '2023 Fall'
+ 
+
 
 # Reading Files
 include:
