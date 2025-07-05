@@ -1,6 +1,7 @@
 ---
 title: "A note on periods of Calabi–Yau fractional complete intersections"
 collection: publications
+category: manuscripts
 permalink: /publication/2023-periods-CY-FCI
 date: 2023-07-13
 venue: 'Mathematische Zeitschrift'
