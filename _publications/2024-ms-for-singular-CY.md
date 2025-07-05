@@ -1,6 +1,7 @@
 ---
 title: 'Mirror symmetry for double cover Calabi–Yau varieties'
 collection: publications
+category: manuscripts
 permalink: /publication/2024-ms-for-singular-CY
 date: 2024-06-02
 venue: 'Journal of Differential Geometry'
