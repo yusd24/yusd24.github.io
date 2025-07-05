@@ -36,7 +36,7 @@ location: "Taiwan, Taiwan"
 
 <p><b>預計課程內容與進度</b>：
 <table border="1">
-  <caption style="caption-side:top"><center> ##### 課程內容</center></caption>
+  <!--<caption style="caption-side:top"><center>課程內容</center></caption>-->
   <tr>
     <th style="width:23%"> 上課日期 </th>
     <th style="width:17%"> 章節 </th>
