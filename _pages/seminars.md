@@ -7,17 +7,16 @@ author_profile: true
 
 <hr style="border:1.5px solid gray">
 
-### **2025 NCKU algebraic geometry student seminar**
-##### **Venue**: Department of Mathematics, NCKU.
-##### **Date**: 2025 June - July.
+## **2025 NCKU algebraic geometry student seminar**
+**Venue**: Department of Mathematics, NCKU.
+**Date**: 2025 June - July.
 
  - **6/09 11:00-13:00** Ching-Jui Lai (NCKU), Birational geometry of complex projective surfaces, a brief introduction [Link](https://math.ncku.edu.tw/p/406-1221-283478,r3765.php?Lang=zh-tw)
  - **6/26 10:00-12:00** Sheng-Chun Tsai (NCKU), Introduction to vector bundles, Cartier divisor, and linear systems.
 
 
-##### **Aim and Scope**:
+### **Aim and Scope**:
 
-<font size="3">
 This seminar aims to train participants fundamentals in
 algebraic geometry to prepare for future research.
 We plan to cover basic tools and rudiments in algebraic geometry
@@ -40,16 +39,16 @@ If time permits, we will also discuss some advanced topics. The tentative target
 
 We plan to hold the first meeting in mid-June. 
 
-##### **References**
+### **References**
  - [H] Algebraic Geometry, R. Hartshorne
  - [B] Complex algebraic surfaces, A. Beauville
  - [K] Rational curves on algebraic varieties, J. Kollár
  - [FAG] Fundamental algebraic geometry: Grothendieck’s FGA explained, B. Fantechi et al.
 
-##### **Organizers**
+### **Organizers**
  - Ching-Jui Lai (NCKU)
  - Tsung-Ju Lee (NCKU)
-</font>
+
 <hr style="border:1.5px solid gray">
 
 
