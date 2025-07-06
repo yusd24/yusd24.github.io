@@ -74,11 +74,11 @@ social:
 
 # Analytics
 analytics:
-  provider               : "goatcounter" # false (default), "google", "google-universal", "custom", "goatcounter"
+  provider               : "google" # false (default), "google", "google-universal", "custom", "goatcounter"
   google:
-    tracking_id          : 
+    tracking_id          : G-JLZ3CCQB97
   goatcounter:
-    code		 : jayrobwilliams
+    code		 : 
 
 
 # Site Author
