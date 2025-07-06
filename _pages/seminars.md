@@ -9,13 +9,14 @@ author_profile: true
 
 ## **2025 NCKU algebraic geometry student seminar**
 **Venue**: 
+
 Department of Mathematics, NCKU.
 
-**Date**: 2025 June - July.
+**Date**: 2025 June - August.
 
  - 6/09 11:00-13:00 Ching-Jui Lai (NCKU), Birational geometry of complex projective surfaces, a brief introduction [Link](https://math.ncku.edu.tw/p/406-1221-283478,r3765.php?Lang=zh-tw)
  - 6/26 10:00-12:00 Sheng-Chun Tsai (NCKU), Introduction to vector bundles, Cartier divisor, and linear systems.
-
+ - 7/04 10:00-12:00 Li-Chen Liu (NCKU), Bezout's theorem in projective spaces.
 
 ### **Aim and Scope**:
 
