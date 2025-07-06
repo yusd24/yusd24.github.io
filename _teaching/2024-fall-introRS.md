@@ -31,6 +31,7 @@ location: "Tainan, Taiwan"
 <br>
 </p>
 
+<!--
 <p><b>預計課程內容與進度</b>：
 <table border="1">
   <caption style="caption-side:top"><center>課程內容</center></caption>
@@ -126,3 +127,4 @@ location: "Tainan, Taiwan"
   </tr>
 
 </table>
+-->
