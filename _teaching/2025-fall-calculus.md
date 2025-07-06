@@ -14,10 +14,10 @@ location: "Tainan, Taiwan"
 
 <p><b>授課教師</b>: 李宗儒 Tsung-Ju Lee
 <br><b>學分數</b>: 3
-<br><b>上課時間</b>: 星期三 10:10am - 12:00am、星期五 9:10am - 10:00am
+<br><b>上課時間</b>: 星期三 10:10am - 12:00pm、星期五 9:10am - 10:00am
 <br><b>實習課時間</b>: 星期五 8:10am - 9:00am
 <br><b>上課地點</b>: 經緯廳
-<br><b>課程網站</b>: <a href="https://moodle.ncku.edu.tw/course/view.php?id=32648/" target="_blank">Moodle</a>
+<br><b>課程網站</b>: <!--<a href="https://moodle.ncku.edu.tw/course/view.php?id=32648/" target="_blank">Moodle</a>-->
 
 <p><b>先修課程或先備能力</b>：高中數學</p>
 
