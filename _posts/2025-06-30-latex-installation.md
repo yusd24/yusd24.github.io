@@ -7,7 +7,7 @@ output:
 knit: (function(inputFile, encoding) {
   rmarkdown::render(inputFile, encoding = encoding, output_dir = "../_posts") })
 date: 2025-07-01
-permalink: /posts/2025-latex
+permalink: /posts/2025-latex-installation
 excerpt_separator: <!--more-->
 always_allow_html: true
 toc: true
