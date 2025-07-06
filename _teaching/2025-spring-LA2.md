@@ -1,10 +1,10 @@
 ---
 title: "Linear algebra (2)"
 collection: teaching
-category: 2024-fall
+category: 2025-spring
 type: "Undergraduate course"
 description: 線性代數二
-permalink: /teaching/2024-fall-LA1
+permalink: /teaching/2025-spring-LA2
 venue: "數學系"
 date: 2025-02-01
 location: "Tainan, Taiwan"
