@@ -16,11 +16,11 @@ author_profile: true
 
 ##### **Aim and Scope**:
 
-This seminar aims to train participants fundamentals in
+<font size="3">This seminar aims to train participants fundamentals in
 algebraic geometry to prepare for future research.
 We plan to cover basic tools and rudiments in algebraic geometry
 by working through standard textbooks, at times bringing 
-in outside material in the forms of more advanced textbook material. 
+in outside material in the forms of more advanced textbook material. </font>
 
 We shall begin with the following topics.
 
