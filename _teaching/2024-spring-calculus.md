@@ -2,7 +2,7 @@
 title: "Calculus (2)"
 collection: teaching
 category: 2024-spring
-type: "Graduate course"
+type: "Undergraduate course"
 description: 微積分二（資源系、環工系）
 permalink: /teaching/2024-spring-calculus
 venue: ""
