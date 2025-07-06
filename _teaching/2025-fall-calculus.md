@@ -7,7 +7,7 @@ type: "Undergraduate course"
 permalink: /teaching/2025-fall-calculus
 venue: ""
 date: 2025-07-01
-location: "Taiwan, Taiwan"
+location: "Tainan, Taiwan"
 ---
 
 &nbsp;
