@@ -20,23 +20,15 @@ location: "Tainan, Taiwan"
 <br><b>課程網站</b>: 
 <p><b>參考書目</b>：
 <ul>
-<li></li> Allen Hatcher, Algebraic Topology.
-<li></li> James W. Vick, Homology Theory: An Introduction to Algebraic Topology.
-<li></li> Raoul Bott and Loring W. Tu, Differential Forms in Algebraic Topology.
+<li>Allen Hatcher, Algebraic Topology.</li> 
+<li>James W. Vick, Homology Theory: An Introduction to Algebraic Topology.</li> 
+<li>Raoul Bott and Loring W. Tu, Differential Forms in Algebraic Topology.</li> 
 </ul>
 
 <p><b>先修課程或先備能力</b>：基礎代數（能使用群、環、體、向量空間等基礎代數語言）、
   基礎拓墣學（高等微積分中講授的點集拓墣知識）。
 Students are supposed to be familiar with basics of algebra (languages of groups, rings, fields, vector spaces) and
 point-set topology (covered in Advanced Calculus). 
-</p>
-
-<p><b>重要公告與注意事項</b>：
-<ul>
-<li></li>
-<li></li>
-<li></li>
-</ul>
 </p>
 
 <p><b>預計課程內容與進度</b>：
