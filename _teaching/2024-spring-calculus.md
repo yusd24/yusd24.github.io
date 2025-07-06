@@ -7,7 +7,7 @@ description: 微積分二（資源系、環工系）
 permalink: /teaching/2024-spring-calculus
 venue: ""
 date: 2024-02-01
-location: "Taiwan, Taiwan"
+location: "Tainan, Taiwan"
 ---
 
 &nbsp;
