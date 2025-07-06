@@ -7,7 +7,7 @@ type: "Undergraduate course"
 permalink: /teaching/2023-fall-calculus
 venue: "NCKU"
 date: 2023-09-01
-location: "Taiwan, Taiwan"
+location: "Tainan, Taiwan"
 ---
 
 &nbsp;
