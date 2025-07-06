@@ -17,7 +17,8 @@ Here are courses I am teaching or taught before.
 
 {% for post in site.teaching reversed %}
   {% if post.category == category[0] %}
-- [{{ post.title }}]({{ post.url | prepend: base_path }}) &nbsp; <h4>{{post.description}}</h4>
+- [{{ post.title }}]({{ post.url | prepend: base_path }})
+  - {{post.description}}
   {% endif %}
 {% endfor %}
 
