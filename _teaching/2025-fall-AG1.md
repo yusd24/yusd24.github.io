@@ -1,5 +1,5 @@
 ---
-title: "Algebraic Geometry (1)"
+title: "Algebraic geometry (1)"
 collection: teaching
 category: 2025-fall
 type: "Graduate course"
