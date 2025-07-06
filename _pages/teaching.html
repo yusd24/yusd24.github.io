@@ -6,25 +6,25 @@ author_profile: true
 ---
 
 Here are courses I am teaching or taught before.
-    
+
 {% include base_path %}
 
 {% if site.publication_category %}
-  {% for category in site.teaching_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.teaching reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-      {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
+<!-- Loop through categorized teaching posts -->
+{% for category in site.teaching_category %}
+### {{ category[1].title }}
+<hr />
+
+{% for post in site.teaching reversed %}
+  {% if post.category == category[0] %}
+- [{{ post.title }}]({{ post.url | prepend: base_path }})
+  {% endif %}
+{% endfor %}
+
+{% endfor %}
 {% else %}
-  {% for post in site.teaching reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
+<!-- List all teaching posts if no category exists -->
+{% for post in site.teaching reversed %}
+- [{{ post.title }}]({{ post.url | prepend: base_path }})
+{% endfor %}
 {% endif %}
