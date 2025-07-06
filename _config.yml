@@ -87,7 +87,7 @@ author:
   avatar           : "tj-lee-random.jpg"
   bio              : "PhD in Mathematics"
   location         : "Tainan, Taiwan"
-  employer         : 
+  links            : 
     - label: "National Cheng Kung University"
       icon: "fa-regular fa-building-columns"
   pubmed           :
