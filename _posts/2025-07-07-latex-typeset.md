@@ -56,6 +56,8 @@ where \(f(x)\) is a continuous function on \(\mathbf{R}\).
 
 一般來說，一份 .tex 文件包含兩個部分：preamble 與 document（本文內容）。preamble 裡面的程式碼主要控制排版的設定，document 裡面則包含文件的內容。文件內容指在
 \begin{document} 
+
+
 與
 \end{document}
 之間的內容。在 \\begin{document} 前面的區域叫 preamble。
