@@ -207,7 +207,7 @@ Every non-constant polynomial over \(\mathbf{C}\) has a root in \(\mathbf{C}\).
 ```
 代表要生成文件標題。這個指令會在文件的第一頁產生標題與作者。
 
-### 第二行至第五行
+### 第二行至第六行
 ```
 Test with an equation \(x^{2}+y^{2}=1\). Here is an displayed equation
 \begin{equation}
@@ -224,6 +224,10 @@ Test with an equation $x^{2}+y^{2}=1$. Here is an displayed equation
 
 $$\frac{\mathrm{d}}{\mathrm{d}x}\int_{c}^{x} f(t)\mathrm{d}t = f(x) \hspace{5cm} (1)$$
 
-注意到在這行的最右邊有一個編號 (1)，這是數學式的編號；使用 equation 環境會自動把數學式編號。
+where \(f(x)\) is a continuous function on \(\mathbf{R}\).
+
+
+注意到在數學式的最右邊有一個編號 (1)，這是它的編號；使用 equation 環境會自動把數學式按照順序編號。
+
 
 
