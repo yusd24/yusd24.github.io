@@ -44,3 +44,11 @@ tags:
 Test with an equation \(x^{2}+y^{2}=1\).
 \end{document}
 ```
+
+以下我們逐行解釋上面的程式碼。
+
+首先，第一行
+```
+\documentclass[11pt,reqno,a4paper]{amsart}
+```
+為 .tex 檔案的開頭。\documentclass 的功用在於指定文件類型，需在後面的大括號 \{\} 內輸入文件類型。常見的文件類型有 book、report 或 article，分別代表書籍，報告，或短文。不同的文件類型可以使用不同的指令排版，例如 book 類型可以使用 \chapter 指令來排版章節。例子裡面使用的是文件類型是 amsart（American Mathematical Society article，美國數學協會短文）。大括號前面中括號 \[\] 內的指令
