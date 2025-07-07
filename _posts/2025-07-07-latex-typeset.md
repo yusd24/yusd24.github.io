@@ -54,7 +54,7 @@ where \(f(x)\) is a continuous function on \(\mathbf{R}\).
 ```
 ## 結構
 
-一般來說，一份 .tex 文件包含兩個部分：preamble 與 document（本文內容）。preamble 裡面的程式碼主要控制排版的設定，document 裡面則包含文件的內容。文件內容指夾在 \begin{document} 
+一般來說，一份 .tex 文件包含兩個部分：preamble 與 document（本文內容）。preamble 裡面的程式碼主要控制排版的設定，document 裡面則包含文件的內容。文件內容指夾在 \begin{document} 和 \\end{document} 之間的內容，即
 ```
 \begin{document}
 \maketitle
