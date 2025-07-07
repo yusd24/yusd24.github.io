@@ -23,7 +23,7 @@ tags:
 
 # 簡介
 
-一般來說，一份 .tex 文件包含兩個部分：preamble 與 document（本文內容）。preamble 裡面的程式碼主要控制排版的設定，document 裡面則包含文件的內容。以下我們舉一個簡單的例子來說明。
+以下我們舉一個簡單的例子來說明。
 
 ```
 \documentclass[11pt,reqno,a4paper]{amsart}
@@ -39,14 +39,24 @@ tags:
 
 \linespread{1.08}
 
+\title{A Latex example}
+\author{Tsung-Ju Lee}
+\date{\today}
+
 \begin{document}
 \maketitle
 Test with an equation \(x^{2}+y^{2}=1\). Here is an displayed equation
 \begin{equation}
-\frac{\mathrm{d}}{\mathrm{d}x}\int_{x}^{c} f(t)\mathrm{d}t = f(x).
+\frac{\mathrm{d}}{\mathrm{d}x}\int_{c}^{x} f(t)\mathrm{d}t = f(x)
 \end{equation}
+where \(f(x)\) is a continuous function on \(\mathbf{R}\).
 \end{document}
 ```
+## 結構
+
+一般來說，一份 .tex 文件包含兩個部分：preamble 與 document（本文內容）。preamble 裡面的程式碼主要控制排版的設定，document 裡面則包含文件的內容。
+
+### Preamble 
 
 以下我們逐行解釋上面的程式碼。
 
