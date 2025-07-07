@@ -248,5 +248,5 @@ Every non-constant polynomial over \(\mathbf{C}\) has a root in \(\mathbf{C}\\).
 
 **Theorem 1.1**. (Fundamental theorem of algebra) _Every non-constant polynomial over \\(\mathbf{C}\\) has a root in \\(\mathbf{C}\\)_.
 
-以上本文結束。
+其中 **1.1** 表示第一節的第一個定理（即以 section 來計數定理）。以上本文結束。
 
