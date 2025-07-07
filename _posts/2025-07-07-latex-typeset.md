@@ -153,4 +153,24 @@ Every non-constant polynomial over \(\mathbf{C}\) has a root in \(\mathbf{C}\).
 ```
 \newtheorem{theorem}{Theorem}[section]
 ```
-是在呼叫 amsthm 套件之後才可以使用的指令。這個指令的一般形式是 `\newtheorem{name}{head}[counter]`，用途為定義 Theorem 環境供本文使用。其中 name 表示環境的名字、head 表示在文件中要顯示的標題名稱，而中括號內的 counter 則是記數器（或是標號），我們的程式碼 `\newtheorem{theorem}{Theorem}[section]` 定義了
+是在呼叫 amsthm 套件之後才可以使用的指令。這個指令的一般形式是 `\newtheorem{name}{head}[counter]`，用途為定義 Theorem 環境供本文使用。其中 name 表示環境的名字、head 表示在文件中要顯示的標題名稱，而中括號內的 counter 則是計數器（或是標號），我們的程式碼 `\newtheorem{theorem}{Theorem}[section]` 定義了一個名為 "theorem" 的環境，其標題為 "Theorem"，並且用 section （章節）來做標記。
+
+### 第九行
+
+第九行
+```
+\linespread{1.08}
+```
+功用為指定文件的行距，這邊使用的是 1.08 倍。
+
+### 第十行到第十二行
+
+第十至十二行
+```
+\title{A Latex example}
+\author{Tsung-Ju Lee}
+\date{\today}
+```
+是在使用適當文件格式後才可使用的指令。`\title{A Latex example}` 是告訴 Latex 文章標題為 "A Latex example"、`\author{Tsung-Ju Lee}` 表示此份文件作者為 "Tsung-Ju Lee"，最後 `\date{\today}` 表示文件的製作日期是今天。
+
+
