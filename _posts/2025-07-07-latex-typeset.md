@@ -218,10 +218,11 @@ Test with an equation \(x^{2}+y^{2}=1\). Here is an displayed equation
 
 Test with an equation $x^{2}+y^{2}=1$.
 
-之後有一段程式碼被 `\begin{equation}` 與 `\end{equation}` 夾住。`\begin{environment}` 與 `\end{environment}` 意思是中間夾住的程式碼要使用 environment 環境編譯。這裡我們使用的環境為 equation。也就是中間夾住的數學式要用數學展式表現；即要從上面的段落獨立出來打在下一行上。注意到上面的數學式 $x^{2}+y^{2}=1$ 是鑲嵌在段落裡面，這通常叫做「隨文模式」。展示中有一些常用的數學符號：`\frac{A}{B}` 表示分數 $B$ 分之 $A$。`\mathrm{d}` 表示 d 這個字母要使用 roman 字體，有別於一般的數學斜體字母，如後面的 $x$。`\int_{c}^{x}` 表示積分符號，上限為 $x$，下限為 $c$。所以整行表示出來會變成
+之後有一段程式碼被 `\begin{equation}` 與 `\end{equation}` 夾住。`\begin{environment}` 與 `\end{environment}` 意思是中間夾住的程式碼要使用 environment 環境編譯。這裡我們使用的環境為 equation。也就是中間夾住的數學式要用數學展式表現；即要從上面的段落獨立出來打在下一行上。注意到上面的數學式 $x^{2}+y^{2}=1$ 是鑲嵌在段落裡面，這通常叫做「隨文模式」。展示中有一些常用的數學符號：`\frac{A}{B}` 表示分數 $B$ 分之 $A$。`\mathrm{d}` 表示 d 這個字母要使用 roman 字體，有別於一般的數學斜體字母，如後面的 $x$。`\int_{c}^{x}` 表示積分符號，上限為 $x$，下限為 $c$。所以整段表示出來會變成
 
+Test with an equation $x^{2}+y^{2}=1$. Here is an displayed equation
 $$\frac{\mathrm{d}}{\mathrm{d}x}\int_{c}^{x} f(t)\mathrm{d}t = f(x) \hspace{5cm} (1)$$
 
-注意到在這行的最右邊有一個數字，這是數學式的編號。使用 equation 環境會自動把數學式編號。
+注意到在這行的最右邊有一個編號 (1)，這是數學式的編號；使用 equation 環境會自動把數學式編號。
 
 
