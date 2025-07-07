@@ -230,9 +230,9 @@ Test with an equation $x^{2}+y^{2}=1$.
 
 Test with an equation $x^{2}+y^{2}=1$. Here is an displayed equation
 
-$$\frac{\mathrm{d}}{\mathrm{d}x}\int_{c}^{x} f(t)\mathrm{d}t = f(x) \hspace{5cm} (1)$$
+$$\hspace{5cm} \frac{\mathrm{d}}{\mathrm{d}x}\int_{c}^{x} f(t)\mathrm{d}t = f(x) \hspace{5cm} (1)$$
 
-where \(f(x)\) is a continuous function on \(\mathbf{R}\).
+where \\(f(x)\\) is a continuous function on \\(\mathbf{R}\\).
 
 
 注意到在數學式的最右邊有一個編號 (1)，這是它的編號；使用 equation 環境會自動把數學式按照順序編號。而最後的 `\mathbf{R}` 表示字母 R 要使用數學粗體字。
@@ -241,14 +241,14 @@ where \(f(x)\) is a continuous function on \(\mathbf{R}\).
 
 ```
 \begin{theorem}[Fundamental theorem of algebra]
-Every non-constant polynomial over \(\mathbf{C}\) has a root in \(\mathbf{C}\).
+Every non-constant polynomial over \(\mathbf{C}\) has a root in \(\mathbf{C}\\).
 \end{theorem}
 ```
 這段意思是使用我們剛剛在 preamble 定義的 theorem 環境編譯。編譯出來的內容為
 
 **Theorem 1.1**. (Fundamental theorem of algebra)
 
-Every non-constant polynomial over \(\mathbf{C}\) has a root in \(\mathbf{C}\).
+Every non-constant polynomial over \\(\mathbf{C}\\) has a root in \\(\mathbf{C}\\).
 
-
+以上本文結束。
 
