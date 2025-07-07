@@ -1,5 +1,5 @@
 ---
-title: How to typeset with Latex? A working example
+title: How to typeset with Latex? A walking example
 output:
   md_document:
     variant: gfm+footnotes
