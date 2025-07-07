@@ -54,7 +54,7 @@ where \(f(x)\) is a continuous function on \(\mathbf{R}\).
 ```
 ## 結構
 
-一般來說，一份 .tex 文件包含兩個部分：preamble 與 document（本文內容）。preamble 裡面的程式碼主要控制排版的設定，document 裡面則包含文件的內容。文件內容指夾在 \begin{document} 和 \\end{document} 之間的內容，即
+一般來說，一份 .tex 文件包含兩個部分：preamble 與 document（本文內容）。preamble 裡面的程式碼主要控制排版的設定，document 裡面則包含文件的內容。文件內容指夾在 `\begin{document} 和 \end{document}` 之間的內容，即
 ```
 \begin{document}
 \maketitle
@@ -65,7 +65,25 @@ Test with an equation \(x^{2}+y^{2}=1\). Here is an displayed equation
 where \(f(x)\) is a continuous function on \(\mathbf{R}\).
 \end{document}
 ```
-在 \begin{document} 前面的區域叫 preamble。
+在 \begin{document} 前面的區域叫 preamble，即 
+```
+\documentclass[11pt,reqno,a4paper]{amsart}
+
+\usepackage[margin=1.13in]{geometry}
+
+\usepackage{amsmath,amsfonts,amssymb,amsthm,mathrsfs}
+
+%\usepackage{bbm}
+%\usepackage{dsfont}
+%\usepackage{mathptmx}   % selects Times Roman as basic font
+%\usepackage{helvet}     % selects Helvetica as sans-serif font
+
+\linespread{1.08}
+
+\title{A Latex example}
+\author{Tsung-Ju Lee}
+\date{\today}
+```
 
 以下我們逐行解釋例子中展示的程式碼。
 
