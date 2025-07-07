@@ -37,6 +37,8 @@ tags:
 %\usepackage{mathptmx}   % selects Times Roman as basic font
 %\usepackage{helvet}     % selects Helvetica as sans-serif font
 
+\newtheorem{theorem}{Theorem}[section]
+
 \linespread{1.08}
 
 \title{A Latex example}
@@ -50,6 +52,10 @@ Test with an equation \(x^{2}+y^{2}=1\). Here is an displayed equation
 \frac{\mathrm{d}}{\mathrm{d}x}\int_{c}^{x} f(t)\mathrm{d}t = f(x)
 \end{equation}
 where \(f(x)\) is a continuous function on \(\mathbf{R}\).
+
+\begin{theorem}[Fundamental theorem of algebra]
+Every non-constant polynomial over \(\mathbf{C}\) has a root in \(\mathbf{C}\).
+\end{theorem}
 \end{document}
 ```
 ## 結構
@@ -63,6 +69,10 @@ Test with an equation \(x^{2}+y^{2}=1\). Here is an displayed equation
 \frac{\mathrm{d}}{\mathrm{d}x}\int_{c}^{x} f(t)\mathrm{d}t = f(x)
 \end{equation}
 where \(f(x)\) is a continuous function on \(\mathbf{R}\).
+
+\begin{theorem}[Fundamental theorem of algebra]
+Every non-constant polynomial over \(\mathbf{C}\) has a root in \(\mathbf{C}\).
+\end{theorem}
 \end{document}
 ```
 在 `\begin{document}` 前面的區域叫 preamble，即 
@@ -77,6 +87,8 @@ where \(f(x)\) is a continuous function on \(\mathbf{R}\).
 %\usepackage{dsfont}
 %\usepackage{mathptmx}   % selects Times Roman as basic font
 %\usepackage{helvet}     % selects Helvetica as sans-serif font
+
+\newtheorem{theorem}{Theorem}[section]
 
 \linespread{1.08}
 
