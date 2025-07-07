@@ -102,6 +102,8 @@ Every non-constant polynomial over \(\mathbf{C}\) has a root in \(\mathbf{C}\).
 \date{\today}
 ```
 
+一般而言，Latex 的指令一般都是用斜線 \\ 開頭。斜線後面接指令。
+
 以下我們逐行解釋例子中展示的程式碼。
 
 ## Preamble 
@@ -207,7 +209,13 @@ Every non-constant polynomial over \(\mathbf{C}\) has a root in \(\mathbf{C}\).
 ```
 代表要生成文件標題。這個指令會在文件的第一頁產生標題與作者。
 
-### 第二行至第六行
+### 第二行
+```
+\section{Introduction}
+```
+指的是以下內容（直至下次 \section 出現前）均為第一節的內容，這節的名稱叫做 Introduction。
+
+### 第三行至第七行
 ```
 Test with an equation \(x^{2}+y^{2}=1\). Here is an displayed equation
 \begin{equation}
@@ -227,7 +235,20 @@ $$\frac{\mathrm{d}}{\mathrm{d}x}\int_{c}^{x} f(t)\mathrm{d}t = f(x) \hspace{5cm}
 where \(f(x)\) is a continuous function on \(\mathbf{R}\).
 
 
-注意到在數學式的最右邊有一個編號 (1)，這是它的編號；使用 equation 環境會自動把數學式按照順序編號。
+注意到在數學式的最右邊有一個編號 (1)，這是它的編號；使用 equation 環境會自動把數學式按照順序編號。而最後的 `\mathbf{R}` 表示字母 R 要使用數學粗體字。
+
+### 第八行到第十行
+
+```
+\begin{theorem}[Fundamental theorem of algebra]
+Every non-constant polynomial over \(\mathbf{C}\) has a root in \(\mathbf{C}\).
+\end{theorem}
+```
+這段意思是使用我們剛剛在 preamble 定義的 theorem 環境編譯。編譯出來的內容為
+
+**Theorem 1.1**. (Fundamental theorem of algebra)
+
+Every non-constant polynomial over \(\mathbf{C}\) has a root in \(\mathbf{C}\).
 
 
 
