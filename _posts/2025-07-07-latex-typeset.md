@@ -106,6 +106,26 @@ Every non-constant polynomial over \(\mathbf{C}\) has a root in \(\mathbf{C}\).
 
 ## Preamble 
 
+```
+\documentclass[11pt,reqno,a4paper]{amsart}
+
+\usepackage[margin=1.13in]{geometry}
+
+\usepackage{amsmath,amsfonts,amssymb,amsthm,mathrsfs}
+
+%\usepackage{bbm}
+%\usepackage{dsfont}
+%\usepackage{mathptmx}   % selects Times Roman as basic font
+%\usepackage{helvet}     % selects Helvetica as sans-serif font
+
+\newtheorem{theorem}{Theorem}[section]
+
+\linespread{1.08}
+
+\title{A Latex example}
+\author{Tsung-Ju Lee}
+\date{\today}
+```
 
 ### 第一行
 
