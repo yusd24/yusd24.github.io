@@ -109,6 +109,7 @@ Every non-constant polynomial over \(\mathbf{C}\) has a root in \(\mathbf{C}\).
 
 ### 第一行
 
+
 首先，第一行
 ```
 \documentclass[11pt,reqno,a4paper]{amsart}
@@ -116,6 +117,7 @@ Every non-constant polynomial over \(\mathbf{C}\) has a root in \(\mathbf{C}\).
 為 .tex 檔案的開頭。`\documentclass` 的功用在於指定文件類型，需在後面的大括號 \{ \} 內輸入文件類型。常見的文件類型有 book、report 或 article，分別代表書籍，報告，或文章。不同的文件類型可以使用不同的指令排版，例如 book 類型可以使用 \chapter 指令來排版章節。例子裡面使用的是文件類型是 amsart（American Mathematical Society article，美國數學協會文章）。大括號前面中括號 \[ \] 內的指令是用來調整參數，不同的參數通常用逗號分開。上述例子中的參數有三個：11pt、reqno、a4paper。11pt 是指定文件的字體大小，reqno 是讓文件內容裡的數學展式標籤靠右，a4paper 則是指定文件的紙張大小為 A4。
 
 ### 第二行
+
 
 第二行
 ```
@@ -125,6 +127,7 @@ Every non-constant polynomial over \(\mathbf{C}\) has a root in \(\mathbf{C}\).
 
 ### 第三行
 
+
 第三行
 ```
 \usepackage{amsmath,amsfonts,amssymb,amsthm,mathrsfs}
@@ -132,6 +135,7 @@ Every non-constant polynomial over \(\mathbf{C}\) has a root in \(\mathbf{C}\).
 一次引入五個套件，不同的套件用逗號分開。這些套件包含一些在編寫數學文件時常用的指令。例如常見的數學符號、提供使用者定義 Theorem 環境與 Reference 格式等等。
 
 ### 第四行至第七行
+
 
 第四到第七行
 ```
@@ -143,6 +147,7 @@ Every non-constant polynomial over \(\mathbf{C}\) has a root in \(\mathbf{C}\).
 是關於字型的套件，要引入字型時使用。但注意到這些指令前面都有一個 % 符號。% 在 .tex 文件中表示註解，即 % 後面的程式碼會直接被忽略不作用。因此這四行在這份文件中是不起任何作用的。
 
 ### 第八行
+
 
 第八行
 ```
