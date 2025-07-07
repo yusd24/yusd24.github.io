@@ -21,6 +21,8 @@ tags:
 
 <!--more-->
 
+## 簡介
+
 一般來說，一份 .tex 文件包含兩個部分：preamble 與 document（本文內容）。preamble 裡面的程式碼主要控制排版的設定，document 裡面則包含文件的內容。以下我們舉一個簡單的例子來說明。
 
 ```
