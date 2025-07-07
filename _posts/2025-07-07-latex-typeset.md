@@ -6,7 +6,7 @@ output:
     preserve_yaml: TRUE
 knit: (function(inputFile, encoding) {
   rmarkdown::render(inputFile, encoding = encoding, output_dir = "../_posts") })
-date: 2025-07-01
+date: 2025-07-07
 permalink: /posts/2025-latex-typeset
 excerpt_separator: <!--more-->
 always_allow_html: true
