@@ -171,6 +171,10 @@ Every non-constant polynomial over \(\mathbf{C}\) has a root in \(\mathbf{C}\).
 \author{Tsung-Ju Lee}
 \date{\today}
 ```
-是在使用適當文件格式後才可使用的指令。`\title{A Latex example}` 是告訴 Latex 文章標題為 "A Latex example"、`\author{Tsung-Ju Lee}` 表示此份文件作者為 "Tsung-Ju Lee"，最後 `\date{\today}` 表示文件的製作日期是今天。
+是在使用適當文件格式後才可使用的指令。`\title{A Latex example}` 是告訴 Latex 文章標題為 "A Latex example"、`\author{Tsung-Ju Lee}` 表示此份文件作者為 "Tsung-Ju Lee"，最後 `\date{\today}` 表示文件的製作日期是今天。當然這些指令也可以加入參數，例如 `\title[Latex]{A Latex example}` 等。使用者可以自己上網搜尋這些參數的使用時機。
+
+## 文件內容
+
+現在我們來解釋文件內容裡的程式碼代表的意義。
 
 
