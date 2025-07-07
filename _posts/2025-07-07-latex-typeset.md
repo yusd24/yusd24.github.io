@@ -47,6 +47,9 @@ tags:
 
 \begin{document}
 \maketitle
+
+\section{Introduction}
+
 Test with an equation \(x^{2}+y^{2}=1\). Here is an displayed equation
 \begin{equation}
 \frac{\mathrm{d}}{\mathrm{d}x}\int_{c}^{x} f(t)\mathrm{d}t = f(x)
@@ -64,6 +67,9 @@ Every non-constant polynomial over \(\mathbf{C}\) has a root in \(\mathbf{C}\).
 ```
 \begin{document}
 \maketitle
+
+\section{Introduction}
+
 Test with an equation \(x^{2}+y^{2}=1\). Here is an displayed equation
 \begin{equation}
 \frac{\mathrm{d}}{\mathrm{d}x}\int_{c}^{x} f(t)\mathrm{d}t = f(x)
@@ -129,3 +135,9 @@ Every non-constant polynomial over \(\mathbf{C}\) has a root in \(\mathbf{C}\).
 %\usepackage{helvet}     % selects Helvetica as sans-serif font
 ```
 是關於字型的套件，要引入字型時使用。但注意到這些指令前面都有一個 % 符號。% 在 .tex 文件中表示註解，即 % 後面的程式碼會直接被忽略不作用。因此這四行在這份文件中是不起任何作用的。
+
+第八行
+```
+\newtheorem{theorem}{Theorem}[section]
+```
+是在呼叫 amsthm 套件之後才可以使用的指令。這個指令的一般形式是`\newtheorem{name}{head}[counter]`
