@@ -109,8 +109,6 @@ Every non-constant polynomial over \(\mathbf{C}\) has a root in \(\mathbf{C}\).
 
 ### 第一行
 
-
-首先，第一行
 ```
 \documentclass[11pt,reqno,a4paper]{amsart}
 ```
@@ -118,8 +116,6 @@ Every non-constant polynomial over \(\mathbf{C}\) has a root in \(\mathbf{C}\).
 
 ### 第二行
 
-
-第二行
 ```
 \usepackage[margin=1.13in]{geometry}
 ```
@@ -127,8 +123,6 @@ Every non-constant polynomial over \(\mathbf{C}\) has a root in \(\mathbf{C}\).
 
 ### 第三行
 
-
-第三行
 ```
 \usepackage{amsmath,amsfonts,amssymb,amsthm,mathrsfs}
 ```
@@ -136,8 +130,6 @@ Every non-constant polynomial over \(\mathbf{C}\) has a root in \(\mathbf{C}\).
 
 ### 第四行至第七行
 
-
-第四到第七行
 ```
 %\usepackage{bbm}
 %\usepackage{dsfont}
@@ -148,8 +140,6 @@ Every non-constant polynomial over \(\mathbf{C}\) has a root in \(\mathbf{C}\).
 
 ### 第八行
 
-
-第八行
 ```
 \newtheorem{theorem}{Theorem}[section]
 ```
@@ -157,7 +147,6 @@ Every non-constant polynomial over \(\mathbf{C}\) has a root in \(\mathbf{C}\).
 
 ### 第九行
 
-第九行
 ```
 \linespread{1.08}
 ```
@@ -165,7 +154,6 @@ Every non-constant polynomial over \(\mathbf{C}\) has a root in \(\mathbf{C}\).
 
 ### 第十行到第十二行
 
-第十至十二行
 ```
 \title{A Latex example}
 \author{Tsung-Ju Lee}
