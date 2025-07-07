@@ -43,11 +43,11 @@ Latex 可以大致分為兩個部分：主程式與編輯器。使用者先利�
 
 ## 編輯器
 
-編輯器的選擇就比較多元。MacTex 與 Miktex 都有內建的編輯器，分別叫做 Texshop 與 Texworks。除了內建的編輯器外，使用者也可以考慮使用其他的跨平台編輯器，例如 [Texmaker](https://www.xm1math.net/texmaker/) 或 [Texstudio](https://www.texstudio.org) 等等。除了以上這些，也可以使用有整合功能的編輯器，例如 [Sublime Text](https://www.sublimetext.com) 或 [VScode](https://code.visualstudio.com)。這些編輯器可以用來編寫除了 Latex 以外的程式語言，例如 C++、Java、Phython、SQL 等等。如果要使用這類的編輯器，通常需要先安裝相應的套件才能正常使用，詳情請參閱各個程式的網站介紹。
+編輯器的選擇就比較多元。MacTex 與 Miktex 都有內建的編輯器，分別叫做 TeXShop 與 TeXworks。除了內建的編輯器外，使用者也可以考慮使用其他的跨平台編輯器，例如 [Texmaker](https://www.xm1math.net/texmaker/) 或 [Texstudio](https://www.texstudio.org) 等等。除了以上這些，也可以使用有整合功能的編輯器，例如 [Sublime Text](https://www.sublimetext.com) 或 [VScode](https://code.visualstudio.com)。這些編輯器可以用來編寫除了 Latex 以外的程式語言，例如 C++、Java、Phython、SQL 等等。如果要使用這類的編輯器，通常需要先安裝相應的套件才能正常使用，詳情請參閱各個程式的網站介紹。
 
 ## PDF 瀏覽器
 
-如上介紹，編譯完成後會跑出一個 PDF 檔案。因此使用者需要一個 PDF 瀏覽軟體來檢視檔案。要使用哪個瀏覽軟體需根據你的編輯器來決定。通常使用者在編輯器中輸入或按下編譯的指令後，編輯器會呼叫 Latex 主程式來排版，排版完成後編輯器會呼叫 PDF 瀏覽軟體來開啟剛剛跑出來的 PDF 檔案。因此使用者需注意自己的編輯器支援哪些 PDF 瀏覽軟體。使用 Texshop 則可直接用 MacOS 內建的瀏覽軟體「預覽程式」。TeXworks 則有內建的 PDF 瀏覽軟體。使用 Sublime Text 可以搭配 [Sumatra](https://www.sumatrapdfreader.org/download-free-pdf-viewer)（Windows）或是 [Skim](https://skim-app.sourceforge.io)（MacOS）。
+如上介紹，編譯完成後會跑出一個 PDF 檔案。因此使用者需要一個 PDF 瀏覽軟體來檢視檔案。要使用哪個瀏覽軟體需根據你的編輯器來決定。通常使用者在編輯器中輸入或按下編譯的指令後，編輯器會呼叫 Latex 主程式來排版，排版完成後編輯器會呼叫 PDF 瀏覽軟體來開啟剛剛跑出來的 PDF 檔案。因此使用者需注意自己的編輯器支援哪些 PDF 瀏覽軟體。使用 TeXShop 則可直接用 MacOS 內建的瀏覽軟體「預覽程式」。TeXworks 則有內建的 PDF 瀏覽軟體。使用 Sublime Text 可以搭配 [Sumatra](https://www.sumatrapdfreader.org/download-free-pdf-viewer)（Windows）或是 [Skim](https://skim-app.sourceforge.io)（MacOS）。
 
 ## 安裝方式
 
