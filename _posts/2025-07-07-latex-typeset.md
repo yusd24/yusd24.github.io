@@ -246,7 +246,7 @@ Every non-constant polynomial over \(\mathbf{C}\) has a root in \(\mathbf{C}\\).
 ```
 這段意思是使用我們剛剛在 preamble 定義的 theorem 環境編譯。編譯出來的內容為
 
-**Theorem 1.1**. (Fundamental theorem of algebra)_Every non-constant polynomial over \\(\mathbf{C}\\) has a root in \\(\mathbf{C}\\)_.
+**Theorem 1.1**. (Fundamental theorem of algebra) _Every non-constant polynomial over \\(\mathbf{C}\\) has a root in \\(\mathbf{C}\\)_.
 
 以上本文結束。
 
