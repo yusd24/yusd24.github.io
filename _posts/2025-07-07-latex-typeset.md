@@ -125,7 +125,7 @@ Every non-constant polynomial over \(\mathbf{C}\) has a root in \(\mathbf{C}\).
 ```
 \usepackage{amsmath,amsfonts,amssymb,amsthm,mathrsfs}
 ```
-一次引入五個套件。這些套件包含一些在編寫數學文件時常用的指令。例如一些數學符號、 Theorem 環境與 Reference 格式等等。
+一次引入五個套件，不同的套件用逗號分開。這些套件包含一些在編寫數學文件時常用的指令。例如常見的數學符號、提供使用者定義 Theorem 環境與 Reference 格式等等。
 
 第四行到第七行
 ```
