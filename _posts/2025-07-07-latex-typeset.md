@@ -230,7 +230,7 @@ Test with an equation $x^{2}+y^{2}=1$.
 
 Test with an equation $x^{2}+y^{2}=1$. Here is an displayed equation
 
-$$\hspace{5cm} \frac{\mathrm{d}}{\mathrm{d}x}\int_{c}^{x} f(t)\mathrm{d}t = f(x) \hspace{5cm} (1)$$
+$$\begin{equation}\frac{\mathrm{d}}{\mathrm{d}x}\int_{c}^{x} f(t)\mathrm{d}t = f(x) \end{equation}$$
 
 where \\(f(x)\\) is a continuous function on \\(\mathbf{R}\\).
 
@@ -244,9 +244,9 @@ where \\(f(x)\\) is a continuous function on \\(\mathbf{R}\\).
 Every non-constant polynomial over \(\mathbf{C}\) has a root in \(\mathbf{C}\\).
 \end{theorem}
 ```
-這段意思是使用我們剛剛在 preamble 定義的 theorem 環境編譯。編譯出來的內容為
+這段意思是告訴 Latex 要使用我們剛剛在 preamble 定義的 theorem 環境編譯。編譯出來的內容為
 
 **Theorem 1.1**. (Fundamental theorem of algebra) _Every non-constant polynomial over \\(\mathbf{C}\\) has a root in \\(\mathbf{C}\\)_.
 
-其中 **1.1** 表示第一節的第一個定理（即以 section 來計數定理）。以上本文結束。
+其中 **1.1** 表示第一節的第一個定理（即以 section 來計數定理）。使用者可以在後面多寫幾個 `\begin{theorem} ... \end{theorem}' 或是加幾個 `\section{}' 來測試定理編號的變化。以上文件內容結束。
 
