@@ -117,13 +117,15 @@ Every non-constant polynomial over \(\mathbf{C}\) has a root in \(\mathbf{C}\).
 
 ### 第二行
 
+第二行
 ```
 \usepackage[margin=1.13in]{geometry}
 ```
-是告訴 Latex 編譯時要引用 geometry 這個套件。`\usepackage`是引入套件的指示，大括號 \{ \} 中的 geometry 是套件的名字。與 `\documentclass[11pt,reqno,a4paper]{amsart}` 的邏輯類似，大括號前的中括號 \[ \] 內的指令為調整參數，這裡我們的參數是 margin=1.13in，margin 指的是文章內容到紙張邊緣的距離，這邊的設定是 1.13 公寸（inch）。geometry 套件裡還有很多參數可以使用。對於一般的套件，使用者通常可以在 [CTAN](https://ctan.org) 的網站上找到說明。例如 [Link](https://ctan.org/pkg/geometry) 可以找到 geometry 套件的完整使用方式與說明。
+是告訴 Latex 編譯時要引用 geometry 這個套件。`\usepackage` 是引入套件的指示，大括號 \{ \} 中的 geometry 是套件的名字。與 `\documentclass[11pt,reqno,a4paper]{amsart}` 的邏輯類似，大括號前的中括號 \[ \] 內的指令為調整參數，這裡我們的參數是 margin=1.13in，margin 指的是文章內容到紙張邊緣的距離，這邊的設定是 1.13 公寸（inch）。geometry 套件裡還有很多參數可以使用。對於一般的套件，使用者通常可以在 [CTAN](https://ctan.org) 的網站上找到說明。例如 [Link](https://ctan.org/pkg/geometry) 可以找到 geometry 套件的完整使用方式與說明。
 
 ### 第三行
 
+第三行
 ```
 \usepackage{amsmath,amsfonts,amssymb,amsthm,mathrsfs}
 ```
@@ -131,6 +133,7 @@ Every non-constant polynomial over \(\mathbf{C}\) has a root in \(\mathbf{C}\).
 
 ### 第四行至第七行
 
+第四到第七行
 ```
 %\usepackage{bbm}
 %\usepackage{dsfont}
@@ -141,7 +144,8 @@ Every non-constant polynomial over \(\mathbf{C}\) has a root in \(\mathbf{C}\).
 
 ### 第八行
 
+第八行
 ```
 \newtheorem{theorem}{Theorem}[section]
 ```
-是在呼叫 amsthm 套件之後才可以使用的指令。這個指令的一般形式是`\newtheorem{name}{head}[counter]`
+是在呼叫 amsthm 套件之後才可以使用的指令。這個指令的一般形式是 `\newtheorem{name}{head}[counter]`，用途為定義 Theorem 環境供本文使用。其中 name 表示環境的名字、head 表示在文件中要顯示的標題名稱，而中括號內的 counter 則是記數器（或是標號），我們的程式碼 `\newtheorem{theorem}{Theorem}[section]` 定義了
