@@ -22,7 +22,7 @@ tags:
 <!--more-->
 
 
-以下我們舉一個簡單的例子來說明。
+我們舉一個簡單的例子來說明。下面是一個可以被編譯（compile）的 .tex 檔。
 
 ```
 \documentclass[11pt,reqno,a4paper]{amsart}
