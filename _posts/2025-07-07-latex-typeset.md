@@ -183,6 +183,37 @@ Every non-constant polynomial over \(\mathbf{C}\) has a root in \(\mathbf{C}\).
 
 ## 文件內容
 
-現在我們來解釋文件內容裡的程式碼代表的意義。
+文件內容為夾在 `\begin{document}` 與 `\end{document}` 之間的部分。現在我們來解釋文件內容裡的程式碼代表的意義。
+
+```
+\maketitle
+
+\section{Introduction}
+
+Test with an equation \(x^{2}+y^{2}=1\). Here is an displayed equation
+\begin{equation}
+\frac{\mathrm{d}}{\mathrm{d}x}\int_{c}^{x} f(t)\mathrm{d}t = f(x)
+\end{equation}
+where \(f(x)\) is a continuous function on \(\mathbf{R}\).
+
+\begin{theorem}[Fundamental theorem of algebra]
+Every non-constant polynomial over \(\mathbf{C}\) has a root in \(\mathbf{C}\).
+\end{theorem}
+```
+
+### 第一行
+```
+\maketitle
+```
+代表要生成文件標題。這個指令會在文件的第一頁產生標題與作者。
+
+### 第二行至第五行
+```
+Test with an equation \(x^{2}+y^{2}=1\). Here is an displayed equation
+\begin{equation}
+\frac{\mathrm{d}}{\mathrm{d}x}\int_{c}^{x} f(t)\mathrm{d}t = f(x)
+\end{equation}
+```
+為文件內容的一部分。數學式會使用 `\(` 與 `\)` 表示。所以 `\(x^{2}+y^{2}=1\)` 表示用數學模式編譯 `x^{2}+y^{2}=1`，其中 "^" 表示上標。因此這行程式碼編譯出來即得「$x$ 平方加 $y$ 平方等於 $1$」。
 
 
