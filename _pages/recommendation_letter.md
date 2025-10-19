@@ -1,9 +1,7 @@
 ---
-permalink: /
+permalink: /recommendation_letter/
 title: "Recommendation Letter"
 author_profile: true
-permalink: /recommendation_letter/
-redirect_from: 
 ---
 
 某些時候，學生可能會需要一封來自老師的推薦信。
