@@ -17,7 +17,7 @@ author_profile: true
  - 09/29
  - 09/22 
  - 09/15 10:00-12:00 
- - 09/08 10:00-12:00 Sheng-Chun Tsai (NCKU), Introduction to vector bundles, Cartier divisor, and linear systems.
+ - 09/08 10:00-12:00 Sheng-Chun Tsai (NCKU), 
 
 ### **Aim and Scope**:
 
@@ -27,8 +27,9 @@ We plan to discuss the following topics:
 
 
 ### **References**
- - [M] Introduction to the Mori program, M. Matuki
- - [M] Singular points of complex hypersurfaces, J. Milnor
+ - [M1] Introduction to the Mori program, K. Matsuki
+ - [KM] Birational geometry of algebraic varieties, J. Kollar and S. Mori
+ - [M2] Singular points of complex hypersurfaces, J. Milnor
  
 <hr style="border:1.5px solid gray">
 
