@@ -5,6 +5,31 @@ permalink: /seminars/
 author_profile: true
 ---
 
+## **2025 Fall NCKU geometry student seminar**
+**Venue**: Department of Mathematics, NCKU.
+
+**Date**: 2025 September - 2026 January.
+
+ - 10/22
+ - 10/13
+ - 10/08
+ - 10/01
+ - 09/29
+ - 09/22 
+ - 09/15 10:00-12:00 
+ - 09/08 10:00-12:00 Sheng-Chun Tsai (NCKU), Introduction to vector bundles, Cartier divisor, and linear systems.
+
+### **Aim and Scope**:
+
+We plan to discuss the following topics:
+- the minimal model program and the classification of algebraic surfaces.
+- Milnor's theory for singularity.
+
+
+### **References**
+ - [M] Introduction to the Mori program, M. Matuki
+ - [M] Singular points of complex hypersurfaces, J. Milnor
+ 
 <hr style="border:1.5px solid gray">
 
 ## **2025 NCKU algebraic geometry student seminar**
