@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /recommendation_letter/
-title: "Recommendation Letter"
+title: "關於推薦信"
 author_profile: true
 ---
 
