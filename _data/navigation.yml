@@ -10,17 +10,18 @@ main:
   - title: "Teaching"
     url: /teaching/
 
-  - title: "Events"
-    url: /events/
-    
-  - title: "Seminars"
-    url: /seminars/
+  - title: "Recommendation Letter"
+    url: /recommendation_letter/
 
-  - title: "Posts"
-    url: /posts/
+  #- title: "Events"
+  #  url: /events/
+    
+  #- title: "Seminars"
+  #  url: /seminars/
+
+  #- title: "Posts"
+  #  url: /posts/
     
   - title: "Links"
     url: /links/
 
-  - title: "Recommendation Letter"
-    url: /recommendation_letter/
