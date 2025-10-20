@@ -10,20 +10,18 @@ author_profile: true
 
 **Date**: 2025 September - 2026 January.
 
- - 10/22
- - 10/13
- - 10/08
- - 10/01
- - 09/29
- - 09/22 
- - 09/15 10:00-12:00 
- - 09/08 10:00-12:00 Sheng-Chun Tsai (NCKU), 
+ - 10/22 12:00-14:00 Yi-Tsung Wang (NCKU), the fibration theorem
+ - 10/13 12:00-14:00 Sheng-Chun Tsai (NCKU), Weil divisors, Cartier divisors, and line bundles
+ - 10/08 12:00-14:00 Yi-Tsung Wang (NCKU), the curve selection lemma
+ - 10/01 12:00-14:00 Sheng-Chun Tsai (NCKU), Castelnuovo contraction theorem (II)
+ - 09/22 12:00-14:00 Yi-Tsung Wang (NCKU), real and complex algebraic Sets
+ - 09/15 10:00-12:00 Sheng-Chun Tsai (NCKU), Castelnuovo contraction theorem (I)
 
 ### **Aim and Scope**:
 
 We plan to discuss the following topics:
-- the minimal model program and the classification of algebraic surfaces.
-- Milnor's theory for singularity.
+- (Sheng-Chun Tsai) the minimal model program and the classification of algebraic surfaces. 
+- (Yi-Tsung Wang) Milnor's theory for singularity.
 
 
 ### **References**
