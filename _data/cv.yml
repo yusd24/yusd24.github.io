@@ -1,42 +1,42 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
+  name: Tsung-Ju Lee
+  label: Mathematician
+  email: tsungju@gs.ncku.edu.tw
+  location: Tainan
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  summary: 
 
   social_networks:
-    - network: X
-      username: AlbertEinstein
+    #- network: X
+    #  username: AlbertEinstein
     - network: GitHub
-      username: example
-    - network: LinkedIn
-      username: example
+      username: yusd24
+    #- network: LinkedIn
+    #  username: example
 
   address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+    street: No. 1 Daxue Rd, East Distrinct
+    city: Tainan
+    region: 
+    postalCode: 70101, Tainan
+    countryCode: TWN
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
+      - institution: National Taiwan University
+        location: Taipei, Taiwan
+        url: 
+        area: Mathematics
         studyType: PhD
-        start_date: 1900
-        end_date: 1905
+        start_date: 
+        end_date: 
         score: ""
-        courses: "Theory of Relativity"
+        courses: ""
         highlights:
           - Description 1.
           - Description 2.
 
-      - institution: Eidgenössische Technische Hochschule
+      - institution: Department of Mathematics
         location: Zurich, Switzerland
         area: Physics
         studyType: Federal teaching diploma
