@@ -1,16 +1,16 @@
 cv:
   name: Tsung-Ju Lee
-  label: Mathematician
+  label: 
   email: tsungju@gs.ncku.edu.tw
   location: Tainan
-  image: ""
+  image: 
   summary: 
 
   social_networks:
-    #- network: X
-    #  username: AlbertEinstein
     - network: GitHub
       username: yusd24
+    #- network: X
+    #  username: AlbertEinstein
     #- network: LinkedIn
     #  username: example
 
@@ -25,64 +25,36 @@ cv:
     Education:
       - institution: National Taiwan University
         location: Taipei, Taiwan
-        url: 
+        url: https://yusd24.github.io/
         area: Mathematics
         studyType: PhD
-        start_date: 
-        end_date: 
-        score: ""
-        courses: ""
+        start_date: 2010-08
+        end_date: 2016-6
+        score: 
+        courses: 
         highlights:
           - Description 1.
           - Description 2.
 
       - institution: Department of Mathematics
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+        location: Tainan, Taiwan
+        area: Mathematics
+        studyType: 
+        start_date: 2023-09-01
+        end_date: 
         highlights:
-          - Description 1.
-          - Description 2.
+          # - Description 1.
+          # - Description 2.
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: Center of Mathematical Sciences and Applications, Harvard University
+        position: Postdoctoral Fellow
+        location: Harvard University, MA
+        start_date: 2018-09
+        end_date: 2023-08
+        summary: 
         highlights:
-          - Relativity
-          - Description 2.
-
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
-        highlights:
-          - Description 1.
-          - Description 2.
-
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
+          - Calabi-Yau Geometry
 
     Volunteer:
       - company: People's Climate March
