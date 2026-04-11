@@ -11,8 +11,6 @@ cv:
     - network: GitHub
       username: yusd24
   summary: I am an assistant professor at the Department of Mathematics, National Cheng Kung University. My research interests include mirror symmetry, Gromov-Witten theory, quantum cohomology, and Calabi-Yau geometry. I received my Ph.D. from National Taiwan University in 2016, and I was a postdoctoral fellow at the Center of Mathematical Sciences and Applications, Harvard University from 2018 to 2023.
-      
-
   sections:
     Education:
       - institution: National Taiwan University
@@ -23,8 +21,7 @@ cv:
         start_date: 2010-08-01
         end_date: 2016-06-30
         supervisor: Professor Chin-Lung Wang and Professor Hui-Wen Lin
-        summary: My Ph.D. thesis is on the topic of mirror symmetry, which is a duality between symplectic geometry and complex geometry. I am interested in the mathematical aspects of mirror symmetry, such as Gromov-Witten theory, quantum cohomology, and Calabi-Yau geometry.
-    
+        summary: My Ph.D. thesis is on the topic of mirror symmetry, which is a duality between symplectic geometry and complex geometry. I am interested in the mathematical aspects of mirror symmetry, such as Gromov-Witten theory, quantum cohomology, and Calabi-Yau geometry.0    
     Experience:  
       - company: Department of Mathematics
         position: Assistant professor
@@ -34,7 +31,6 @@ cv:
         highlights:
            - Description 1.
            - Description 2.
-
       - company: Center of Mathematical Sciences and Applications, Harvard University
         position: Postdoctoral Fellow
         location: Harvard University, MA
@@ -42,14 +38,12 @@ cv:
         end_date: 2023-08-31
         highlights:
           - Calabi-Yau Geometry
-
     Awards:
       - title: "Simons Collaboration on Homological Mirror Symmetry"
         date: 2018-09-01
         awarder: Simons Foundation
         url: https://www.simonsfoundation.org/mathematics-and-physical-science/mathematics/simons-collaboration-on-homological-mirror-symmetry/
         summary: The Simons Collaboration on Homological Mirror Symmetry is a prestigious award that supports research in the field of homological mirror symmetry, which is a mathematical framework that connects symplectic geometry and algebraic geometry.
- 
     Grants:
       - title: "AMS Simons Travel Grant"
         authors:
@@ -58,10 +52,8 @@ cv:
         awarder: American Mathematical Society
         url: https://www.ams.org/funding/simons-travel-grant
         summary: The AMS Simons Travel Grant is a prestigious grant awarded to early-career faculty who have the potential to serve as academic role models in research and education.
-
     Languages:
       - name: Mandarin Chinese
         summary: "Native speaker"
-
       - name: English
         summary: "Fluent"
