@@ -28,8 +28,8 @@ cv:
         url: https://yusd24.github.io/
         area: Mathematics
         studyType: PhD
-        start_date: 2010-08
-        end_date: 2016-6
+        start_date: 2010-08-01
+        end_date: 2016-06-30
         score: 
         courses: 
         highlights:
@@ -41,7 +41,7 @@ cv:
         area: Mathematics
         studyType: 
         start_date: 2023-09-01
-        end_date: 
+        end_date: present
         highlights:
           # - Description 1.
           # - Description 2.
