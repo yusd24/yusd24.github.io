@@ -1,19 +1,17 @@
 cv:
   name: Tsung-Ju Lee
   email: tsungju@gs.ncku.edu.tw
-  location: Tainan
-  summary: 
-
-  social_networks:
-    - network: GitHub
-      username: yusd24
-
-      
+  location: Tainan, Taiwan
   address:
     street: No. 1 Daxue Rd, East Distrinct
     city: Tainan
     postalCode: 70101, Tainan
     countryCode: TWN
+  social_networks:
+    - network: GitHub
+      username: yusd24
+  summary: I am an assistant professor at the Department of Mathematics, National Cheng Kung University. My research interests include mirror symmetry, Gromov-Witten theory, quantum cohomology, and Calabi-Yau geometry. I received my Ph.D. from National Taiwan University in 2016, and I was a postdoctoral fellow at the Center of Mathematical Sciences and Applications, Harvard University from 2018 to 2023.
+      
 
   sections:
     Education:
@@ -37,7 +35,6 @@ cv:
            - Description 1.
            - Description 2.
 
-
       - company: Center of Mathematical Sciences and Applications, Harvard University
         position: Postdoctoral Fellow
         location: Harvard University, MA
@@ -47,6 +44,11 @@ cv:
           - Calabi-Yau Geometry
 
     Awards:
+      - title: "Simons Collaboration on Homological Mirror Symmetry"
+        date: 2018-09-01
+        awarder: Simons Foundation
+        url: https://www.simonsfoundation.org/mathematics-and-physical-science/mathematics/simons-collaboration-on-homological-mirror-symmetry/
+        summary: The Simons Collaboration on Homological Mirror Symmetry is a prestigious award that supports research in the field of homological mirror symmetry, which is a mathematical framework that connects symplectic geometry and algebraic geometry.
  
     Grants:
       - title: "AMS Simons Travel Grant"
@@ -56,8 +58,6 @@ cv:
         awarder: American Mathematical Society
         url: https://www.ams.org/funding/simons-travel-grant
         summary: The AMS Simons Travel Grant is a prestigious grant awarded to early-career faculty who have the potential to serve as academic role models in research and education.
-
-    Publications:
 
     Languages:
       - name: Mandarin Chinese
