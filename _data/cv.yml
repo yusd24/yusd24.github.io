@@ -214,8 +214,7 @@ cv:
 
     Grants:
       
-      - entry_type: NormalEntry
-        title: "National Science and Technology Council (NSTC) Research Grant"
+      - title: "National Science and Technology Council (NSTC) Research Grant"
         authors: 
           - "PI: Tsung-Ju Lee (李宗儒)"
         start_date: 2023-11-01
