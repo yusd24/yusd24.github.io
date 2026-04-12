@@ -9,7 +9,6 @@ cv:
       username: yusd24
     - network: ORCID
       username: 0000-0002-0865-0564
-  
 
   sections:
     Research Interests:
@@ -112,6 +111,7 @@ cv:
       - title: Finite distance problem on the moduli of non-Kähler Calabi--Yau ddbar-threefolds
         authors: 
         - Tsung-Ju Lee
+        publisher: Math. Ann.
         journal: Math. Ann. **392** (2025), 1541-1583
         doi: 10.1007/s00208-025-03115-8
         date: 2025-03-19
