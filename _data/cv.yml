@@ -2,28 +2,46 @@ cv:
   name: Tsung-Ju Lee
   email: tsungju@gs.ncku.edu.tw
   location: Tainan, Taiwan
-  address:
-    street: No. 1 Daxue Rd, East Distrinct
-    city: Tainan
-    postalCode: 70101, Tainan
-    countryCode: TWN
+  headline: Assistant Professor at the Department of Mathematics, National Cheng Kung University
+  website: https://yusd24.github.io/
+  #address:
+    #street: No. 1 Daxue Rd, East Distrinct
+    #city: Tainan
+    #postalCode: 70101, Tainan
+    #countryCode: TWN
   social_networks:
     - network: GitHub
       username: yusd24
-  summary: I am an assistant professor at the Department of Mathematics, National Cheng Kung University. My research interests include mirror symmetry, Gromov-Witten theory, quantum cohomology, and Calabi-Yau geometry. I received my Ph.D. from National Taiwan University in 2016, and I was a postdoctoral fellow at the Center of Mathematical Sciences and Applications, Harvard University from 2018 to 2023.
+    - network: ORCID
+      username: 0000-0002-0865-0564
+  #summary: I am an assistant professor at the Department of Mathematics, National Cheng Kung University. My research interests include mirror symmetry, Gromov-Witten theory, quantum cohomology, and Calabi-Yau geometry. I received my Ph.D. from National Taiwan University in 2016, and I was a postdoctoral fellow at the Center of Mathematical Sciences and Applications, Harvard University from 2018 to 2023.
   sections:
+    Research Interests:
+      - Algebraic geometry and complex geometry, especially their applications to Calabi--Yau varieties.
+
     Education:
+
       - institution: National Taiwan University
         location: Taipei, Taiwan
         url: https://yusd24.github.io/
         area: Mathematics
-        studyType: Ph.D.
+        degree: Ph.D.
         start_date: 2010-08-01
         end_date: 2016-06-30
-        supervisor: Professor Chin-Lung Wang and Professor Hui-Wen Lin
-        summary: My Ph.D. thesis is on the topic of mirror symmetry, which is a duality between symplectic geometry and complex geometry. I am interested in the mathematical aspects of mirror symmetry, such as Gromov-Witten theory, quantum cohomology, and Calabi-Yau geometry.0    
+        highlights:
+          - "Advisor: Professor Chin-Lung Wang and Professor Hui-Wen Lin"
+          - "Dissertation: *Geometry arising from periods of Calabi--Yau degenerations and transitions*"
+
+      - institution: National Taiwan University
+        location: Taipei, Taiwan
+        area: Mathematics
+        degree: M.S.
+        start_date: 2004-08-01
+        end_date: 2008-01-31
+
     Experience:  
-      - company: Department of Mathematics
+      - company: National Cheng Kung University
+        department: Department of Mathematics
         position: Assistant professor
         location: Tainan, Taiwan
         start_date: 2023-09-01
@@ -31,27 +49,158 @@ cv:
         highlights:
            - Description 1.
            - Description 2.
-      - company: Center of Mathematical Sciences and Applications, Harvard University
+
+      - company: Center of Mathematical Sciences and Applications, Harvard      
         position: Postdoctoral Fellow
-        location: Harvard University, MA
+        mentor: Professor Shing-Tung Yau
+        location: Massachusetts, USA
         start_date: 2018-09-01
         end_date: 2023-08-31
-        highlights:
-          - Calabi-Yau Geometry
-    Awards:
-      - title: "Simons Collaboration on Homological Mirror Symmetry"
-        date: 2018-09-01
-        awarder: Simons Foundation
-        url: https://www.simonsfoundation.org/mathematics-and-physical-science/mathematics/simons-collaboration-on-homological-mirror-symmetry/
-        summary: The Simons Collaboration on Homological Mirror Symmetry is a prestigious award that supports research in the field of homological mirror symmetry, which is a mathematical framework that connects symplectic geometry and algebraic geometry.
-    Grants:
-      - title: "AMS Simons Travel Grant"
+        
+      - company: National Taiwan University
+        position: Postdoctoral Fellow
+        mentor: Professor Chin-Lung Wang
+        location: Taipei, Taiwan
+        start_date: 2018-02-01
+        end_date: 2018-08-27
+
+    Preprints:
+      - title: "Mirror symmetry for singular double cover Calabi--Yau varieties: quantum test"
         authors:
-          - "American Mathematical Society"
+        - Tsung-Ju Lee
+        - Bong H. Lian
+        - Shing-Tung Yau
+        date: "2025-10-07"
+        journal: arXiv
+        url: https://arxiv.org/abs/2510.05470
+        summary: ""
+
+    Publications:
+      - title: Finite distance problem on the moduli of non-Kähler Calabi--Yau $\\partial\\bar{\\partial}$-threefolds
+        authors: 
+        - Tsung-Ju Lee
+        journal: Math. Ann. Vol. **392** (2025), 1541-1583
+        doi: 10.1007/s00208-025-03115-8
+        date: 2025-03-19
+
+      - title: "Twisted GKZ hypergeometric functions and relative homology"
+        authors:
+        - Tsung-Ju Lee
+        - Dingxin Zhang
+        date: "2025-03-08"
+        journal: Math. Ann. Vol. **391** (2025), 5553-5580
+        doi: 10.1007/s00208-024-03058-6
+        summary: ""
+
+      - title: "On a conjecture of Huang--Lian--Yau--Yu"
+        authors:
+        - Tsung-Ju Lee
+        - Bong H. Lian
+        - Dingxin Zhang
+        date: "2024-08"
+        journal: Comm. Anal. Geom. **31** (2023), no. 6, 1341-1352.
+        doi: 10.4310/CAG.2023.v31.n6.a1
+        summary: ""
+
+      - title: "Mirror symmetry for double cover Calabi--Yau varieties"
+        authors:
+        - Shinobu Hosono
+        - Tsung-Ju Lee
+        - Bong H. Lian
+        - Shing-Tung Yau
+        date: "2024-05"
+        journal: J. Differential Geom. **128** (2024), no. 1, 1-35
+        doi: 10.4310/jdg/1717356161
+        summary: ""
+
+      - title: SYZ mirror symmetry for del Pezzo surfaces and affine structures
+        authors:
+        - Siu-Cheong Lau 
+        - Tsung-Ju Lee
+        - Yu-Shen Lin
+        date: 2024-01-18
+        journal: Adv. Math. **439** (2024), 109488
+        doi: 10.1016/j.aim.2024.109488
+
+      - title: A note on periods of Calabi--Yau fractional complete intersections
+        authors: 
+        - Tsung-Ju Lee
+        date: 2023-07-13
+        journal: Math. Z. **304** (2023), article number 60 
+        doi: 10.1007/s00209-023-03321-70
+
+      - title: On the complex affine structures of SYZ fibration of del Pezzo surfaces
+        authors: 
+        - Siu-Cheong Lau
+        - Tsung-Ju Lee
+        - Yu-Shen Lin
+        journal:  ATMP **26** (2023), no. 4, 921-955
+        doi: 10.4310/ATMP.2022.v26.n6.a7
+        date: 2023-06-30
+
+      - title: Period domains for gravitational instantons
+        authors:  
+        - Tsung-Ju Lee
+        - Yu-Shen Lin
+        journal: Trans. Amer. Math. Soc. **376** (2023), 5461-5501
+        doi: 10.1090/tran/8856
+        date: 2023-05-13
+
+      - title: On Calabi--Yau fractional complete intersections
+        authors: 
+        - Tsung-Ju Lee
+        - Bong H. Lian
+        - Shing-Tung Yau
+        journal: Pure Appl. Math. Q. **18** (2022), no. 1, 317-342
+        doi: 10.4310/PAMQ.2022.v18.n1.a10
+        date: 2022-02-10
+
+      - title: A-hypergeometric systems and relative cohomology
+        authors: 
+        - Tsung-Ju Lee
+        - Dingxin Zhang
+        journal: Int. J. Math. **31** (2020), no. 13, 2050113
+        doi: 10.1142/S0129167X2050113X
+        date: 2020-11-11
+
+      - title: Tautological systems under the conifold transition on G(2,4)
+        authors: 
+        - Tsung-Ju Lee
+        - Hui-Wen Lin
+        journal: Asian J. Math. **23** (2019), no. 3, 501-526
+        doi: 10.4310/AJM.2019.v23.n3.a7
+        date: 2019-07-09
+
+      - title: A Hodge theoretic criterion for finite Weil--Petersson degenerations over a higher dimensional base
+        authors: 
+        - Tsung-Ju Lee
+        journal: Math. Res. Lett. **25** (2018), no. 2, 617-647
+        doi: 10.4310/MRL.2018.v25.n2.a14
+        date: 2018-07-01
+
+      
+
+    Grants:
+      
+      - entry_type: NormalEntry
+        title: "National Science and Technology Council (NSTC) Research Grant"
+        authors: 
+          - "PI: Tsung-Ju Lee (李宗儒)"
+        start_date: 2023-01-01
+        end_date: 2026-07-31
+        awarder: National Science and Technology Council (NSTC)
+        summary: "Grant Number: NSTC 112-2115-M-006-001"
+        url: https://www.nstc.gov.tw
+
+      - entry_type: NormalEntry
+        title: "AMS Simons Travel Grant"
+        authors: 
+          - "PI: Tsung-Ju Lee"
         date: 2020-07-01
         awarder: American Mathematical Society
-        url: https://www.ams.org/funding/simons-travel-grant
-        summary: The AMS Simons Travel Grant is a prestigious grant awarded to early-career faculty who have the potential to serve as academic role models in research and education.
+        url: https://www.ams.org/grants-awards/travel-grants/AMS-SimonsTG
+        summary: The AMS Simons Travel Grant is a grant awarded to early-career faculty who have the potential to serve as academic role models in research and education.
+
     Languages:
       - name: Mandarin Chinese
         summary: "Native speaker"
