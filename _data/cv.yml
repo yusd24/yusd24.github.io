@@ -214,7 +214,7 @@ cv:
 
     Grants:
       - entry_type: NormalEntry
-        title: "National Science and Technology Council (NSTC) Research Grant"
+        name: "National Science and Technology Council (NSTC) Research Grant"
         authors: 
           - "PI: Tsung-Ju Lee (李宗儒)"
         start_date: 2023-11-01
@@ -224,7 +224,7 @@ cv:
         url: https://www.nstc.gov.tw
 
       - entry_type: NormalEntry
-        title: "AMS Simons Travel Grant"
+        name: "AMS Simons Travel Grant"
         authors: 
           - "PI: Tsung-Ju Lee"
         start_date: 2020-07-01
