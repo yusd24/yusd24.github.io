@@ -5,7 +5,7 @@ nav: true
 nav_order: 8
 dropdown: true
 children:
-  - title: bookshelf
+  - title: Recommendation Letter
     permalink: /books/
   - title: divider
   - title: blog
