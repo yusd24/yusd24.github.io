@@ -6,7 +6,7 @@ subtitle: <a href='#'>Department of Mathematics, NCKU</a>.
 
 profile:
   align: right
-  image: 
+  image: OWLG_Lee.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>305 Math. Building</p>
