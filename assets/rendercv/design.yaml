@@ -1,12 +1,12 @@
 # for more options, see https://docs.rendercv.com/user_guide/yaml_input_structure/design/
 design:
-  theme: moderncv  # Options: classic, moderncv, sb2nov, engineeringresumes, engineeringclassic
+  theme: harvard  # Options: classic, moderncv, sb2nov, engineeringresumes, engineeringclassic
   
   page:
     size: a4
     top_margin: 1in
     bottom_margin: 1in
-  # Override theme defaults:
+ 
   colors:
     body: rgb(0, 0, 0)              # Main body text
     name: rgb(0, 79, 144)            # Your name in header
