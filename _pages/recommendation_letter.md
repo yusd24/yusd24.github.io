@@ -1,8 +1,8 @@
 ---
-layout: archive
+layout: page
 permalink: /recommendation_letter/
 title: "關於推薦信"
-author_profile: true
+
 ---
 
 學生在某些時候，可能會需要一封來自老師的推薦信。在我的求學與求職生涯中，我的老師們曾花費大量時間和精力為我撰寫推薦信，因此我也非常嚴肅地看待這項工作。
