@@ -4,21 +4,15 @@ cv:
   location: Tainan, Taiwan
   headline: Assistant Professor at the Department of Mathematics, National Cheng Kung University
   website: https://yusd24.github.io/
-  #address:
-    #street: No. 1 Daxue Rd, East Distrinct
-    #city: Tainan
-    #postalCode: 70101, Tainan
-    #countryCode: TWN
   social_networks:
     - network: GitHub
       username: yusd24
     - network: ORCID
       username: 0000-0002-0865-0564
-  #summary: I am an assistant professor at the Department of Mathematics, National Cheng Kung University. My research interests include mirror symmetry, Gromov-Witten theory, quantum cohomology, and Calabi-Yau geometry. I received my Ph.D. from National Taiwan University in 2016, and I was a postdoctoral fellow at the Center of Mathematical Sciences and Applications, Harvard University from 2018 to 2023.
+      
   sections:
     Research Interests:
       - Algebraic geometry and complex geometry, especially their applications to Calabi--Yau varieties.
-
     Education:
       - institution: National Taiwan University
         location: Taipei, Taiwan
@@ -36,7 +30,6 @@ cv:
         degree: M.S.
         start_date: 2004-08-01
         end_date: 2008-01-31
-
     Experience:  
       - company: National Cheng Kung University
         department: Department of Mathematics
@@ -61,7 +54,7 @@ cv:
         location: Taipei, Taiwan
         start_date: 2018-02-01
         end_date: 2018-08-27
-
+ 
     Preprints:
       - title: "Mirror symmetry for singular double cover Calabi--Yau varieties: quantum test"
         authors:
