@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>305 Math. Building</p>
-    <p>No. 1, Daxue Rd., East Distrint</p>
+    <p>No. 1, Daxue Rd., East Dist.</p>
     <p>Tainan 70101, Taiwan</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
