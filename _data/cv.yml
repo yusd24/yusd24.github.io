@@ -31,7 +31,7 @@ cv:
       - institution: National Taiwan University
         location: Taipei, Taiwan
         area: Mathematics
-        degree: M.S.
+        degree: B.S.
         start_date: 2004-08-01
         end_date: 2008-01-31
 
@@ -49,7 +49,7 @@ cv:
       - company: Center of Mathematical Sciences and Applications, Harvard University
         position: Postdoctoral Fellow
         mentor: Professor Shing-Tung Yau
-        location: Cambridge, MA 02138, USA
+        location: Cambridge, MA
         start_date: 2018-09-01
         end_date: 2023-08-31
         
@@ -62,7 +62,7 @@ cv:
 
       - company: Ministry of Defense, Taiwan
         position: Airman
-        location: Taiwan
+        location: Taipei, Taiwan
         start_date: 2016-11-17
         end_date: 2017-10-25
         summary: "Completed mandatory military service in Taiwan."
