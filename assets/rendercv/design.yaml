@@ -1,12 +1,10 @@
 # for more options, see https://docs.rendercv.com/user_guide/yaml_input_structure/design/
 design:
-  theme: harvard  # Options: classic, moderncv, sb2nov, engineeringresumes, engineeringclassic
-  
+  theme: moderncv  # Options: classic, moderncv, sb2nov, engineeringresumes, engineeringclassic
   page:
     size: a4
     top_margin: 1in
     bottom_margin: 1in
- 
   colors:
     body: rgb(0, 0, 0)              # Main body text
     name: rgb(0, 79, 144)            # Your name in header
@@ -16,7 +14,6 @@ design:
     links: rgb(0, 79, 144)           # Hyperlinks
     footer: rgb(128, 128, 128)       # Footer text
     top_note: rgb(128, 128, 128)     # Top note text
-
   typography:
     font_family: 
       body: Latin Modern Mono
