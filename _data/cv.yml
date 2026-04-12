@@ -9,11 +9,14 @@ cv:
       username: yusd24
     - network: ORCID
       username: 0000-0002-0865-0564
-      
+  
+
   sections:
     Research Interests:
-      - Algebraic geometry and complex geometry, especially their applications to Calabi--Yau varieties.
+      - Algebraic geometry and complex differential geometry, especially focusing on their applications to Calabi--Yau varieties and their moduli problems.
+
     Education:
+
       - institution: National Taiwan University
         location: Taipei, Taiwan
         url: https://yusd24.github.io/
@@ -24,12 +27,14 @@ cv:
         highlights:
           - "Advisor: Professor Chin-Lung Wang and Professor Hui-Wen Lin"
           - "Dissertation: *Geometry arising from periods of Calabi--Yau degenerations and transitions*"
+
       - institution: National Taiwan University
         location: Taipei, Taiwan
         area: Mathematics
         degree: M.S.
         start_date: 2004-08-01
         end_date: 2008-01-31
+
     Experience:  
       - company: National Cheng Kung University
         department: Department of Mathematics
@@ -41,10 +46,10 @@ cv:
            - Description 1.
            - Description 2.
 
-      - company: Center of Mathematical Sciences and Applications, Harvard      
+      - company: Center of Mathematical Sciences and Applications, Harvard University
         position: Postdoctoral Fellow
         mentor: Professor Shing-Tung Yau
-        location: Massachusetts, USA
+        location: Cambridge, MA 02138, USA
         start_date: 2018-09-01
         end_date: 2023-08-31
         
@@ -54,7 +59,14 @@ cv:
         location: Taipei, Taiwan
         start_date: 2018-02-01
         end_date: 2018-08-27
- 
+
+      - company: Ministry of Defense, Taiwan
+        position: Airman
+        location: Taiwan
+        start_date: 2016-11-17
+        end_date: 2017-10-25
+        summary: "Completed mandatory military service in Taiwan."
+
     Preprints:
       - title: "Mirror symmetry for singular double cover Calabi--Yau varieties: quantum test"
         authors:
@@ -66,8 +78,38 @@ cv:
         url: https://arxiv.org/abs/2510.05470
         summary: ""
 
+      - title: "Non-commutative resolutions and pre-quotients of Calabi--Yau double covers"
+        authors:
+        - Tsung-Ju Lee
+        - Bong H. Lian
+        - Mauricio Romo
+        - Leonardo Santilli
+        date: "2025-07-01"
+        journal: arXiv
+        url: https://arxiv.org/abs/2507.00633
+        summary: ""
+
+      - title: A supplement to the anticanonical volumes of weak Q-Fano threefolds of Picard rank two
+        authors:
+        - Ching-Jui Lai 
+        - Tsung-Ju Lee 
+        date: "2025-01-23"
+        journal: arXiv
+        url: https://arxiv.org/abs/2502.19419
+        summary: ""
+
+      - title: Non-commutative resolutions as mirror of singular Calabi-Yau varieties
+        authors:
+        - Tsung-Ju Lee
+        - Bong H. Lian
+        - Mauricio Romo
+        date: "2023-07-05"
+        journal: arXiv
+        url: https://arxiv.org/abs/2307.02038
+        summary: ""
+
     Publications:
-      - title: Finite distance problem on the moduli of non-Kähler Calabi--Yau $\\partial\\bar{\\partial}$-threefolds
+      - title: Finite distance problem on the moduli of non-Kähler Calabi--Yau ddbar-threefolds
         authors: 
         - Tsung-Ju Lee
         journal: Math. Ann. Vol. **392** (2025), 1541-1583
@@ -125,7 +167,7 @@ cv:
         - Siu-Cheong Lau
         - Tsung-Ju Lee
         - Yu-Shen Lin
-        journal:  ATMP **26** (2023), no. 4, 921-955
+        journal: Adv. Theor. Math. Phys. **26** (2023), no. 4, 921-955
         doi: 10.4310/ATMP.2022.v26.n6.a7
         date: 2023-06-30
 
@@ -168,13 +210,14 @@ cv:
         journal: Math. Res. Lett. **25** (2018), no. 2, 617-647
         doi: 10.4310/MRL.2018.v25.n2.a14
         date: 2018-07-01
-        
+
     Grants:
+      
       - entry_type: NormalEntry
         title: "National Science and Technology Council (NSTC) Research Grant"
         authors: 
           - "PI: Tsung-Ju Lee (李宗儒)"
-        start_date: 2023-01-01
+        start_date: 2023-11-01
         end_date: 2026-07-31
         awarder: National Science and Technology Council (NSTC)
         summary: "Grant Number: NSTC 112-2115-M-006-001"
@@ -184,10 +227,27 @@ cv:
         title: "AMS Simons Travel Grant"
         authors: 
           - "PI: Tsung-Ju Lee"
-        date: 2020-07-01
+        start_date: 2020-07-01
+        end_date: 2023-06-30
         awarder: American Mathematical Society
         url: https://www.ams.org/grants-awards/travel-grants/AMS-SimonsTG
         summary: The AMS Simons Travel Grant is a grant awarded to early-career faculty who have the potential to serve as academic role models in research and education.
+
+    Invited Talks:
+      - entry_type: NormalEntry
+        name: "Mirror symmetry for singular double cover Calabi--Yau varieties: quantum test"
+        event: "Algebraic Geometry Seminar, National Taiwan University"
+        date: 2025-10-15
+        location: Taipei, Taiwan
+        url: https://www.math.ntu.edu.tw/seminar/alggeom
+
+
+      - entry_type: NormalEntry
+        name: "Non-commutative resolutions and pre-quotients of Calabi-Yau double covers"
+        event: "Geometry and Topology Seminar, Harvard University"
+        date: 2025-07-15
+        location: Massachusetts, USA
+        url: https://www.math.harvard.edu/seminars/geometry-topology
 
     Languages:
       - name: Mandarin Chinese
