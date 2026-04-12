@@ -20,7 +20,6 @@ cv:
       - Algebraic geometry and complex geometry, especially their applications to Calabi--Yau varieties.
 
     Education:
-
       - institution: National Taiwan University
         location: Taipei, Taiwan
         url: https://yusd24.github.io/
@@ -31,7 +30,6 @@ cv:
         highlights:
           - "Advisor: Professor Chin-Lung Wang and Professor Hui-Wen Lin"
           - "Dissertation: *Geometry arising from periods of Calabi--Yau degenerations and transitions*"
-
       - institution: National Taiwan University
         location: Taipei, Taiwan
         area: Mathematics
@@ -177,11 +175,8 @@ cv:
         journal: Math. Res. Lett. **25** (2018), no. 2, 617-647
         doi: 10.4310/MRL.2018.v25.n2.a14
         date: 2018-07-01
-
-      
-
+        
     Grants:
-      
       - entry_type: NormalEntry
         title: "National Science and Technology Council (NSTC) Research Grant"
         authors: 
