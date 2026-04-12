@@ -3,8 +3,8 @@ cv:
   email: tsungju@gs.ncku.edu.tw
   location: Tainan, Taiwan
   headline: Assistant Professor at the Department of Mathematics, National Cheng Kung University
-  website: https://yusd24.github.io/
-  summary: "A mathematician."
+  website: https://yusd24.github.io
+
   social_networks:
     - network: GitHub
       username: yusd24
@@ -13,7 +13,7 @@ cv:
 
   sections:
     Research Interests:
-      - name: Algebraic geometry and complex differential geometry, especially focusing on their applications to Calabi--Yau varieties and their moduli problems.
+      - bullet: Algebraic geometry and complex differential geometry, especially focusing on their applications to Calabi--Yau varieties and their moduli problems.
 
     Education:
 
