@@ -254,3 +254,39 @@ cv:
         summary: "Native speaker"
       - name: English
         summary: "Fluent"
+
+
+# for more options, see https://docs.rendercv.com/user_guide/yaml_input_structure/design/
+design:
+  theme: moderncv  # Options: classic, moderncv, sb2nov, engineeringresumes, engineeringclassic
+  
+  page:
+    size: a4
+    top_margin: 1in
+    bottom_margin: 1in
+    left_margin: 0.7in
+    right_margin: 0.9in
+  # Override theme defaults:
+  colors:
+    body: rgb(0, 0, 0)              # Main body text
+    name: rgb(0, 79, 144)            # Your name in header
+    headline: rgb(0, 79, 144)        # Headline text
+    connections: rgb(0, 79, 144)     # Email, phone, links
+    section_titles: rgb(0, 79, 144)  # Section headings
+    links: rgb(0, 79, 144)           # Hyperlinks
+    footer: rgb(128, 128, 128)       # Footer text
+    top_note: rgb(128, 128, 128)     # Top note text
+
+  typography:
+    font_family: Latin Modern Mono
+      #name: Latin Modern Mono
+      #headline: Latin Modern Mono
+      #body: Latin Modern Mono
+      #ection_titles: Latin Modern Mono
+    font_size:
+      body: 11pt
+      name: 30pt
+      headline: 11pt
+      connections: 10pt
+      section_titles: 1.5em
+
