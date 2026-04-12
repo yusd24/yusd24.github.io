@@ -258,7 +258,7 @@ cv:
 
 # for more options, see https://docs.rendercv.com/user_guide/yaml_input_structure/design/
 design:
-  theme: harvard  # Options: classic, moderncv, sb2nov, engineeringresumes, engineeringclassic
+  theme: moderncv  # Options: classic, moderncv, sb2nov, engineeringresumes, engineeringclassic
   
   page:
     size: a4
