@@ -23,11 +23,11 @@
             {% assign end_pieces = end_date | split: '-' %}
 
             {% comment %} 2. Combine Year [0] and Month [1] for the start date {% endcomment %}
-            {% assign startDate = start_pieces[0] | append: '-' | append: start_pieces[1] %}
+            {% assign startDate = start_pieces[1] | append: '/' | append: start_pieces[0] %}
 
             {% comment %} 3. Do the same for end date, or fallback to 'Present' {% endcomment %}
             {% if end_date != '' and end_pieces[0] != nil %}
-              {% assign endDate = end_pieces[0] | append: '-' | append: end_pieces[1] %}
+              {% assign endDate = end_pieces[1] | append: '/' | append: end_pieces[0] %}
             {% else %}
               {% assign endDate = 'Present' %}
             {% endif %}
