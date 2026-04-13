@@ -1,0 +1,72 @@
+{% comment %}
+  Unified grants entry renderer for both formats
+{% endcomment %}
+
+<ul class="card-text font-weight-light list-group list-group-flush">
+  {% for entry in entries %}
+    <li class="list-group-item">
+      <div class="row">
+        
+        <div class="col-xs-2 col-sm-2 col-md-2 text-center date-column">
+          {% comment %} FIX 1: Use assign to prevent the whitespace trap {% endcomment %}
+          {% assign raw_start = entry.start_date | default: entry.startDate %}
+          {% assign raw_end = entry.end_date | default: entry.endDate %}
+
+          {% if raw_start %}
+            {% assign startDate = raw_start | strip | split: '-' | first %}
+            {% assign endDate = raw_end | strip | split: '-' | first | default: 'Present' %}
+            {% assign date = startDate | append: ' - ' | append: endDate %}
+          {% else %}
+            {% assign date = null %}
+          {% endif %}
+
+          <table class="table-cv">
+            <tbody>
+              <tr>
+                <td>
+                  {% if date %}
+                    <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px">{{ date }}</span>
+                  {% endif %}
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        
+        <div class="col-xs-10 col-sm-10 col-md-10 mt-2 mt-md-0">
+          {% comment %} FIX 2: Removed the invalid <li class="list-group-item"> that was here {% endcomment %}
+          
+          {% if entry.url %}
+            <h6 class="title font-weight-bold">
+              <a href="{{ entry.url }}" target="_blank">{{ entry.name }}</a>
+            </h6>
+          {% else %}
+            <h6 class="title font-weight-bold">{{ entry.name }}</h6>
+          {% endif %}
+          
+          {% comment %} FIX 3: Wrapped authors in an <h6> tag for proper formatting {% endcomment %}
+          {%- if entry.authors -%}
+            <h6 style="font-size: 0.95rem;"><em>{{ entry.authors | array_to_sentence_string }}</em></h6>
+          {%- endif -%}
+          
+          {% if entry.summary %}
+            <p>{{ entry.summary | markdownify | remove: '<p>' | remove: '</p>' }}</p>
+          {% endif %}
+
+          {% if entry.highlights %}
+            <ul class="items">
+              {% for item in entry.highlights %}
+                <li>
+                  <span class="item">{{ item | markdownify | remove: '<p>' | remove: '</p>' }}</span>
+                </li>
+              {% endfor %}
+            </ul>
+          {% endif %}
+          
+        </div>
+      </div>
+    </li>
+  {% endfor %}
+</ul>
+
+
