@@ -260,35 +260,35 @@ cv:
         name: Mirror Symmetry and Related Topics
         date: 2024-01
         location: KIAS
-        summary: Title: <em>On periods of Calabi-Yau fractional complete intersections</em>
+        summary: Title: On periods of Calabi-Yau fractional complete intersections
         url: http://events.kias.re.kr/h/msrt24/?pageNo=5317
       
       - entry_type: NormalEntry
         name: "East Asian Symplectic Conference 2023"
         date: 2023-10
         location: Jeju
-        summary: Title: <em>d-dbar lemma for certain non-Kahler CY threefolds</em>
+        summary: Title: d-dbar lemma for certain non-Kahler CY threefolds
         url: https://sites.google.com/view/2023-easc/home
       
       - entry_type: NormalEntry
         name: Calabi--Yau manifolds and mirror symmetry - Past, Present, and Future -
         date: 2022-08
         location: Gakushuin University
-        summary: Title: <em>On the solutions to GKZ D-modules with fractional parameters</em>
+        summary: Title: On the solutions to GKZ D-modules with fractional parameters
         url: https://sites.google.com/view/cyms2022/home?authuser=0
       
       - entry_type: NormalEntry
         name: Simons Collaboration on HMS Annual Meeting 2021
         date: 2021-11
         location: Simons Foundation
-        summary: Title: <em>Mirror duality between Calabi–Yau fractional complete intersections</em>
+        summary: Title: Mirror duality between Calabi–Yau fractional complete intersections
         url: https://www.simonsfoundation.org/event/simons-collaboration-on-homological-mirror-symmetry-annual-meeting-2021/
 
       - entry_type: NormalEntry
         name: 2020 ICCM Annual meeting
         date: 2020-12
         location: USTC
-        summary: Title: <em>Mirror duality and fractional complete intersection Calabi–Yau spaces</em>
+        summary: Title: *Mirror duality and fractional complete intersection Calabi–Yau spaces*
     
 
 
