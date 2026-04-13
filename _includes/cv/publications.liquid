@@ -34,11 +34,10 @@
             {% endif %}
 
             {% if entry.authors or entry.publisher %}
-              <h6 class="ml-1 ml-md-4" style="font-size: 0.85rem" style="line-height: 1.2">
-                <em>
+              <h6 class="ml-1 ml-md-4" style="font-size: 0.85rem" style="line-height: 1.4">
                   {% comment %} Print authors if they exist {% endcomment %}
                   {% if entry.authors %}
-                    {{ entry.authors | array_to_sentence_string }}
+                    <em>{{ entry.authors | array_to_sentence_string }}</em>
                   {% endif %}
                   
                   {% comment %} Add the comma ONLY if both authors AND publisher exist {% endcomment %}
@@ -48,7 +47,6 @@
                   {% if entry.publisher %}
                     {{ entry.publisher }}
                   {% endif %}
-                </em>
               </h6>
             {% endif %}
 
