@@ -7,37 +7,50 @@
     <li class="list-group-item">
       <div class="row">
         
-        <div class="col-xs-2 col-sm-2 col-md-2 text-center date-column">
-          {% capture start_date %}
-            {% if entry.start_date %}{{ entry.start_date }}{% elsif entry.startDate %}{{ entry.startDate }}{% endif %}
-          {% endcapture %}
-          {% capture end_date %}
-            {% if entry.end_date %}{{ entry.end_date }}{% elsif entry.endDate %}{{ entry.endDate }}{% endif %}
-          {% endcapture %}
+        {% comment %} FIX 1: Use assign instead of capture to avoid whitespace {% endcomment %}
+        {% assign raw_start = entry.start_date | default: entry.startDate %}
+        {% assign raw_end = entry.end_date | default: entry.endDate %}
 
-          {% if start_date != '' %}
-            {% comment %} 1. Split the dates into lists {% endcomment %}
-            {% assign start_pieces = start_date | strip | split: '-' %}
-            {% assign end_pieces = end_date | strip |split: '-' %}
+        {% if raw_start %}
+          {% comment %} 1. Split the dates into lists {% endcomment %}
+          {% assign start_pieces = raw_start | strip | split: '-' %}
+          
+          {% comment %} 2. Combine Month [1] and Year [0] for the start date {% endcomment %}
+          {% assign startDate = start_pieces[1] | append: '/' | append: start_pieces[0] %}
 
-            {% comment %} 2. Combine Year [0] and Month [1] for the start date {% endcomment %}
-            {% assign startDate = start_pieces[1] | append: '/' | append: start_pieces[0] %}
-
-            {% comment %} 3. Do the same for end date, or fallback to 'Present' {% endcomment %}
-            {% if end_date != '' and end_pieces[0] != nil %}
-              {% assign endDate = end_pieces[1] | append: '/' | append: end_pieces[0] %}
-            {% else %}
-              {% assign endDate = 'Present' %}
-            {% endif %}
-
-            {% comment %} 4. Stitch them together with a dash in the middle {% endcomment %}
-            {% assign date = startDate | append: ' - ' | append: endDate %}
+          {% comment %} 3. Do the same for end date, or fallback to 'Present' {% endcomment %}
+          {% if raw_end %}
+            {% assign end_pieces = raw_end | strip | split: '-' %}
+            {% assign endDate = end_pieces[1] | append: '/' | append: end_pieces[0] %}
           {% else %}
-            {% assign date = null %}
+            {% assign endDate = 'Present' %}
           {% endif %}
+
+          {% comment %} 4. Stitch them together with a dash in the middle {% endcomment %}
+          {% assign date = startDate | append: ' - ' | append: endDate %}
+        {% else %}
+          {% assign date = null %}
+        {% endif %}
+
+        <div class="col-xs-2 col-sm-2 col-md-2 text-center date-column">
+          {% comment %} FIX 2: Removed the nested, broken column div that was here {% endcomment %}
+          <table class="table-cv">
+            <tbody>
+              <tr>
+                <td>
+                  {% if date %}
+                    <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px">
+                      {% comment %} FIX 3: Replaced 'pub_date' logic with your formatted 'date' variable {% endcomment %}
+                      {{ date }}
+                    </span>
+                  {% endif %}
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
         
         <div class="col-xs-10 col-sm-10 col-md-10 mt-2 mt-md-0">
-          {% comment %} FIX 2: Removed the invalid <li class="list-group-item"> that was here {% endcomment %}
           
           {% if entry.url %}
             <h6 class="title font-weight-bold">
@@ -47,7 +60,6 @@
             <h6 class="title font-weight-bold">{{ entry.name }}</h6>
           {% endif %}
           
-          {% comment %} FIX 3: Wrapped authors in an <h6> tag for proper formatting {% endcomment %}
           {%- if entry.authors -%}
             <h6 style="font-size: 0.85rem;">{{ entry.authors | array_to_sentence_string }}</h6>
           {%- endif -%}
@@ -60,7 +72,7 @@
             <ul class="items">
               {% for item in entry.highlights %}
                 <li>
-                  <span class="item">{{ item | markdownify | remove: '<p>' | remove: '</p>' }}</span>
+                  <span class="item" style="font-size: 0.85rem;">{{ item | markdownify | remove: '<p>' | remove: '</p>' }}</span>
                 </li>
               {% endfor %}
             </ul>
@@ -71,5 +83,3 @@
     </li>
   {% endfor %}
 </ul>
-
-
