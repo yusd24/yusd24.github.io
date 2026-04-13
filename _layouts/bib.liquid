@@ -154,7 +154,7 @@
     {% if entry.type == 'article' %}
       {% capture entrytype %}<em>{{ entry.journal }}</em>{% endcapture %}
       {% if entry.volume %}
-        {% capture entrytype %}{{ entrytype }}, vol. {{ entry.volume }}{% endcapture %}
+        {% capture entrytype %}{{ entrytype }} <b>{{ entry.volume }}</b>{% endcapture %}
       {% endif %}
       {% if entry.number %}
         {% capture entrytype %}{{ entrytype }}, no. {{ entry.number }}{% endcapture %}
