@@ -33,15 +33,22 @@
               <h6 class="title font-weight-bold ml-1 ml-md-4">{{ entry.title }}</h6>
             {% endif %}
 
-            {% if entry.authors %}
+            {% if entry.authors or entry.publisher %}
               <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem">
-                <em>{{ entry.authors }}</em>
-              </h6>
-            {% endif %}
-            
-            {% if entry.publisher %}
-              <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem">
-                <em>, {{ entry.publisher }}</em>
+                <em>
+                  {% comment %} Print authors if they exist {% endcomment %}
+                  {% if entry.authors %}
+                    {{ entry.authors | array_to_sentence_string }}
+                  {% endif %}
+                  
+                  {% comment %} Add the comma ONLY if both authors AND publisher exist {% endcomment %}
+                  {% if entry.authors and entry.publisher %}, {% endif %}
+                  
+                  {% comment %} Print publisher if it exists {% endcomment %}
+                  {% if entry.publisher %}
+                    {{ entry.publisher }}
+                  {% endif %}
+                </em>
               </h6>
             {% endif %}
 
