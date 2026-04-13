@@ -11,45 +11,36 @@
         {% if entry.date %}
           {% assign date_parts = entry.date | split: '-' %}
           {% if date_parts.size >= 2 %}
-            {% comment %} Takes MM (index 1) and YYYY (index 0) {% endcomment %}
             {% assign date = date_parts[1] | append: '/' | append: date_parts[0] %}
           {% else %}
-            {% comment %} Fallback just in case you only entered a year like "2024" {% endcomment %}
             {% assign date = entry.date %}
           {% endif %}
         {% else %}
           {% assign date = null %}
         {% endif %}
 
-        {% comment %} Left Column: Centered Date Badge and Location {% endcomment %}
+        {% comment %} Left Column: Bulletproof Centering without Tables {% endcomment %}
         <div class="col-xs-2 col-sm-2 col-md-2 text-center date-column">
-          {% comment %} Added mx-auto and text-align to strictly center the table elements {% endcomment %}
-          <table class="table-cv mx-auto" style="text-align: center;">
-            <tbody>
-              <tr>
-                <td>
-                  {% if date %}
-                    <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px">
-                      {{ date }}
-                    </span>
-                  {% endif %}
-                </td>
-              </tr>
-              
-              {% comment %} Location check {% endcomment %}
-              {% if entry.location %}
-                <tr>
-                  <td class="pt-2"> {% comment %} Added pt-2 for a tiny bit of breathing room under the date {% endcomment %}
-                    <p class="location mb-0" style="font-size: 0.85rem; line-height: 1.2;">
-                      <i class="fa-solid fa-location-dot iconlocation"></i>
-                      {{ entry.location }}
-                    </p>
-                  </td>
-                </tr>
-              {% endif %}
-              
-            </tbody>
-          </table>
+          
+          {% comment %} The Date Badge {% endcomment %}
+          {% if date %}
+            <div class="mb-2"> {% comment %} mb-2 adds a little space below the badge {% endcomment %}
+              <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px">
+                {{ date }}
+              </span>
+            </div>
+          {% endif %}
+          
+          {% comment %} The Location (Smaller Font) {% endcomment %}
+          {% if entry.location %}
+            <div>
+              <p class="location mb-0" style="font-size: 0.75rem; line-height: 1.2;">
+                <i class="fa-solid fa-location-dot iconlocation"></i>
+                {{ entry.location }}
+              </p>
+            </div>
+          {% endif %}
+          
         </div>
         
         {% comment %} Right Column: The Text Content {% endcomment %}
