@@ -109,7 +109,7 @@ cv:
       - title: Finite distance problem on the moduli of non-Kähler Calabi--Yau ddbar-threefolds
         authors: 
         - Tsung-Ju Lee
-        publisher: Math. Ann. **392** (2025), 1541-1583
+        publisher: Math. Ann. <b>392</b> (2025), 1541-1583
         journal: Math. Ann. **392** (2025), 1541-1583
         doi: 10.1007/s00208-025-03115-8
         date: 2025-03-19
@@ -119,6 +119,7 @@ cv:
         - Tsung-Ju Lee
         - Dingxin Zhang
         date: "2025-03-08"
+        publisher: Math. Ann. <b>391</b> (2025), 5553-5580
         journal: Math. Ann. **391** (2025), 5553-5580
         doi: 10.1007/s00208-024-03058-6
         summary: ""
@@ -129,7 +130,8 @@ cv:
         - Bong H. Lian
         - Dingxin Zhang
         date: "2024-08"
-        journal: Comm. Anal. Geom. **31** (2023), no. 6, 1341-1352.
+        publisher: Comm. Anal. Geom. <b>31</b> (2023), no. 6, 1341-1352
+        journal: Comm. Anal. Geom. **31** (2023), no. 6, 1341-1352
         doi: 10.4310/CAG.2023.v31.n6.a1
         summary: ""
 
@@ -140,6 +142,7 @@ cv:
         - Bong H. Lian
         - Shing-Tung Yau
         date: "2024-05"
+        pubsliser: J. Differential Geom. <b>128</b> (2024), no. 1, 1-35
         journal: J. Differential Geom. **128** (2024), no. 1, 1-35
         doi: 10.4310/jdg/1717356161
         summary: ""
@@ -150,6 +153,7 @@ cv:
         - Tsung-Ju Lee
         - Yu-Shen Lin
         date: 2024-01-18
+        publisher: Adv. Math. <b>439</b> (2024), 109488
         journal: Adv. Math. **439** (2024), 109488
         doi: 10.1016/j.aim.2024.109488
 
@@ -157,6 +161,7 @@ cv:
         authors: 
         - Tsung-Ju Lee
         date: 2023-07-13
+        publisher: Math. Z. <b>304</b> (2023), article number 60 
         journal: Math. Z. **304** (2023), article number 60 
         doi: 10.1007/s00209-023-03321-70
 
@@ -165,6 +170,7 @@ cv:
         - Siu-Cheong Lau
         - Tsung-Ju Lee
         - Yu-Shen Lin
+        publisher: Adv. Theor. Math. Phys. <b>26</b> (2023), no. 4, 921-955
         journal: Adv. Theor. Math. Phys. **26** (2023), no. 4, 921-955
         doi: 10.4310/ATMP.2022.v26.n6.a7
         date: 2023-06-30
@@ -173,6 +179,7 @@ cv:
         authors:  
         - Tsung-Ju Lee
         - Yu-Shen Lin
+        publisher: Trans. Amer. Math. Soc. <b>376</b> (2023), 5461-5501
         journal: Trans. Amer. Math. Soc. **376** (2023), 5461-5501
         doi: 10.1090/tran/8856
         date: 2023-05-13
@@ -182,6 +189,7 @@ cv:
         - Tsung-Ju Lee
         - Bong H. Lian
         - Shing-Tung Yau
+        publisher: Pure Appl. Math. Q. <b>18</b> (2022), no. 1, 317-342
         journal: Pure Appl. Math. Q. **18** (2022), no. 1, 317-342
         doi: 10.4310/PAMQ.2022.v18.n1.a10
         date: 2022-02-10
@@ -190,7 +198,8 @@ cv:
         authors: 
         - Tsung-Ju Lee
         - Dingxin Zhang
-        journal: Int. J. Math. **31** (2020), no. 13, 2050113
+        publisher: Internet. J. Math. <b>31</b> (2020), no. 13, 2050113
+        journal: Internet. J. Math. **31** (2020), no. 13, 2050113
         doi: 10.1142/S0129167X2050113X
         date: 2020-11-11
 
@@ -198,6 +207,7 @@ cv:
         authors: 
         - Tsung-Ju Lee
         - Hui-Wen Lin
+        publisher: Asian J. Math. </b>23<b> (2019), no. 3, 501-526
         journal: Asian J. Math. **23** (2019), no. 3, 501-526
         doi: 10.4310/AJM.2019.v23.n3.a7
         date: 2019-07-09
@@ -205,6 +215,7 @@ cv:
       - title: A Hodge theoretic criterion for finite Weil--Petersson degenerations over a higher dimensional base
         authors: 
         - Tsung-Ju Lee
+        publisher: Math. Res. Lett. <b>25</b> (2018), no. 2, 617-647
         journal: Math. Res. Lett. **25** (2018), no. 2, 617-647
         doi: 10.4310/MRL.2018.v25.n2.a14
         date: 2018-07-01
