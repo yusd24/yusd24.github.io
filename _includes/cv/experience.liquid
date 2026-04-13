@@ -19,8 +19,8 @@
 
           {% if start_date != '' %}
             {% comment %} 1. Split the dates into lists {% endcomment %}
-            {% assign start_pieces = start_date | split: '-' %}
-            {% assign end_pieces = end_date | split: '-' %}
+            {% assign start_pieces = start_date | strip | split: '-' %}
+            {% assign end_pieces = end_date | strip | split: '-' %}
 
             {% comment %} 2. Combine Year [0] and Month [1] for the start date {% endcomment %}
             {% assign startDate = start_pieces[1] | append: '/' | append: start_pieces[0] %}
