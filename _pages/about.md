@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Department of Mathematics, NCKU</a>. 
+subtitle: <a href="https://math.ncku.edu.tw" target="_blank">Department of Mathematics, NCKU</a>
 
 profile:
   align: right
