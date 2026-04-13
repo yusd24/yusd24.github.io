@@ -241,21 +241,23 @@ cv:
         url: https://www.ams.org/grants-awards/travel-grants/AMS-SimonsTG
         summary: The AMS Simons Travel Grant is a grant awarded to early-career faculty who have the potential to serve as academic role models in research and education.
 
+    Conferences/Workshops organized:
+      - entry_type: NormalEntry
+        name: Representation Theory, Calabi–Yau Manifolds, and Mirror Symmetry
+        location: Harvard CMSA
+        start_date: 2022-11-28
+        end_date: 2022-12-1
+        url: https://cmsa.fas.harvard.edu/event/representation-theory-calabi-yau-manifolds-and-mirror-symmetry/
+        
+    
     Invited Talks:
       - entry_type: NormalEntry
-        name: "Mirror symmetry for singular double cover Calabi--Yau varieties: quantum test"
-        event: "Algebraic Geometry Seminar, National Taiwan University"
-        date: 2025-10-15
-        location: Taipei, Taiwan
-        url: https://www.math.ntu.edu.tw/seminar/alggeom
+        name: "On periods of Calabi--Yau fractional complete intersections"
+        event: "Mirror Symmetry and Related Topics"
+        date: 2024-01
+        location: Korea Institute for Advanced Study
+        url: http://events.kias.re.kr/h/msrt24/?pageNo=5317
 
-
-      - entry_type: NormalEntry
-        name: "Non-commutative resolutions and pre-quotients of Calabi-Yau double covers"
-        event: "Geometry and Topology Seminar, Harvard University"
-        date: 2025-07-15
-        location: Massachusetts, USA
-        url: https://www.math.harvard.edu/seminars/geometry-topology
 
     Languages:
       - name: Mandarin Chinese
