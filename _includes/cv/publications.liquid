@@ -36,12 +36,12 @@
             {% if entry.authors or entry.publisher %}
               <h6 class="ml-1 ml-md-4" style="font-size: 0.85rem" style="line-height: 1.4">
                   {% comment %} Print authors if they exist {% endcomment %}
-                  {% if entry.authors %}
+                  {%- if entry.authors -%}
                     <em>{{ entry.authors | array_to_sentence_string }}</em>
-                  {% endif %}
+                  {%- endif -%}
                   
                   {% comment %} Add the comma ONLY if both authors AND publisher exist {% endcomment %}
-                  {% if entry.authors and entry.publisher %}, {% endif %}
+                  {%- if entry.authors and entry.publisher -%}, {%- endif -%}
                   
                   {% comment %} Print publisher if it exists {% endcomment %}
                   {% if entry.publisher %}
