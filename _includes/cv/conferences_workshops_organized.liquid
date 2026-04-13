@@ -7,6 +7,7 @@
     <li class="list-group-item">
       <div class="row">
         
+        {% comment %} Date Calculation (Kept your range logic!) {% endcomment %}
         {% assign raw_start = entry.start_date | default: entry.startDate %}
         {% assign raw_end = entry.end_date | default: entry.endDate %}
 
@@ -25,43 +26,34 @@
           {% assign date = null %}
         {% endif %}
 
+        {% comment %} Left Column: Bulletproof Centering without Tables {% endcomment %}
         <div class="col-xs-2 col-sm-2 col-md-2 text-center date-column">
-          <table class="table-cv">
-            <tbody>
-              <tr>
-                <td>
-                  {% if date %}
-                    <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px">{{ date }}</span>
-                  {% endif %}
-                </td>
-              </tr>
-              {% capture location %}
-                {% if entry.location %}{{ entry.location }}{% endif %}
-              {% endcapture %}
-              {% if location != '' %}
-                <tr>
-                  <td>
-                    <p class="location">
-                      <i class="fa-solid fa-location-dot iconlocation"></i>
-                      {{ location }}
-                    </p>
-                  </td>
-                </tr>
-              {% endif %}
-            </tbody>
-          </table>
+          
+          {% if date %}
+            <div class="mb-2">
+              <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px">
+                {{ date }}
+              </span>
+            </div>
+          {% endif %}
+          
+          {% comment %} Location with fixed capture bug and smaller font {% endcomment %}
+          {% if entry.location %}
+            <div>
+              <p class="location mb-0" style="font-size: 0.75rem; line-height: 1.2;">
+                <i class="fa-solid fa-location-dot iconlocation"></i>
+                {{ entry.location }}
+              </p>
+            </div>
+          {% endif %}
+          
         </div>
         
+        {% comment %} Right Column: The Text Content {% endcomment %}
         <div class="col-xs-10 col-sm-10 col-md-10 mt-2 mt-md-0">
           
-          {% comment %} Title with Margin-Left {% endcomment %}
-          {% if entry.url %}
-            <h6 class="title font-weight-bold ml-1 ml-md-4">
-              <a href="{{ entry.url }}" target="_blank">{{ entry.name }}</a>
-            </h6>
-          {% else %}
-            <h6 class="title font-weight-bold ml-1 ml-md-4">{{ entry.name }}</h6>
-          {% endif %}
+          {% comment %} Title (Separated from the Link) {% endcomment %}
+          <h6 class="title font-weight-bold ml-1 ml-md-4">{{ entry.name }}</h6>
           
           {% comment %} Authors with Margin-Left {% endcomment %}
           {%- if entry.authors -%}
@@ -88,6 +80,15 @@
                 </li>
               {% endfor %}
             </ul>
+          {% endif %}
+
+          {% comment %} NEW: Link displayed at the bottom {% endcomment %}
+          {% if entry.url %}
+            <div class="ml-1 ml-md-4 mt-2" style="font-size: 0.85rem;">
+              <a href="{{ entry.url }}" target="_blank">
+                <i class="fa-solid fa-link"></i> {{ entry.url }}
+              </a>
+            </div>
           {% endif %}
           
         </div>
