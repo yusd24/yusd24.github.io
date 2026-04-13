@@ -41,10 +41,7 @@ cv:
         position: Assistant professor
         location: Tainan, Taiwan
         start_date: 2023-09-01
-        end_date: present
-        highlights:
-           - Description 1.
-           - Description 2.
+
 
       - company: Center of Mathematical Sciences and Applications, Harvard University
         position: Postdoctoral Fellow
