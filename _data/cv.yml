@@ -244,6 +244,11 @@ cv:
     Conferences/workshops organized:
       - entry_type: NormalEntry
         name: "Representation Theory, Calabi–Yau Manifolds, and Mirror Symmetry"
+        authors:
+         - An Huang 
+         - Siu-Cheong Lau
+         - Tsung-Ju Lee 
+         - Andrew Linshaw
         location: Harvard CMSA
         start_date: 2022-11-28
         end_date: 2022-12-01
