@@ -8,13 +8,29 @@
       <div class="row">
         
         <div class="col-xs-2 col-sm-2 col-md-2 text-center date-column">
-          {% comment %} FIX 1: Use assign to prevent the whitespace trap {% endcomment %}
-          {% assign raw_start = entry.start_date | default: entry.startDate %}
-          {% assign raw_end = entry.end_date | default: entry.endDate %}
+          {% capture start_date %}
+            {% if entry.start_date %}{{ entry.start_date }}{% elsif entry.startDate %}{{ entry.startDate }}{% endif %}
+          {% endcapture %}
+          {% capture end_date %}
+            {% if entry.end_date %}{{ entry.end_date }}{% elsif entry.endDate %}{{ entry.endDate }}{% endif %}
+          {% endcapture %}
 
-          {% if raw_start %}
-            {% assign startDate = raw_start | strip | split: '-' | first %}
-            {% assign endDate = raw_end | strip | split: '-' | first | default: 'Present' %}
+          {% if start_date != '' %}
+            {% comment %} 1. Split the dates into lists {% endcomment %}
+            {% assign start_pieces = start_date | strip | split: '-' %}
+            {% assign end_pieces = end_date | strip |split: '-' %}
+
+            {% comment %} 2. Combine Year [0] and Month [1] for the start date {% endcomment %}
+            {% assign startDate = start_pieces[1] | append: '/' | append: start_pieces[0] %}
+
+            {% comment %} 3. Do the same for end date, or fallback to 'Present' {% endcomment %}
+            {% if end_date != '' and end_pieces[0] != nil %}
+              {% assign endDate = end_pieces[1] | append: '/' | append: end_pieces[0] %}
+            {% else %}
+              {% assign endDate = 'Present' %}
+            {% endif %}
+
+            {% comment %} 4. Stitch them together with a dash in the middle {% endcomment %}
             {% assign date = startDate | append: ' - ' | append: endDate %}
           {% else %}
             {% assign date = null %}
