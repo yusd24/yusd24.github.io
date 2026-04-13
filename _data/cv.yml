@@ -243,6 +243,29 @@ cv:
 
     Conferences/workshops organized:
       - entry_type: NormalEntry
+        name: "Geometry crossing singularities"
+        authors:
+         - Wu-yen Chuang
+         - Tsung-Ju Lee 
+         - Chin-Lung Wang
+        location: TIMS NTU
+        start_date: 2024-07-10
+        end_date: 2024-07-20
+        url: https://www.tims.ntu.edu.tw/modules/news/article.php?storyid=3972
+
+      - entry_type: NormalEntry
+        name: "2023 TIMS Seminar in Algebraic Geometry: Calabi-Yau with small parameters"
+        authors:
+         - You-Cheng Chou 
+         - Tsung-Ju Lee 
+         - Chin-Lung Wang
+         - Sz-Sheng Wang
+        location: TIMS NTU
+        start_date: 2023-06-02
+        end_date: 2023-06-12
+        url: https://www.tims.ntu.edu.tw/modules/news/article.php?storyid=4129
+
+      - entry_type: NormalEntry
         name: "Representation Theory, Calabi–Yau Manifolds, and Mirror Symmetry"
         authors:
          - An Huang 
@@ -253,9 +276,32 @@ cv:
         start_date: 2022-11-28
         end_date: 2022-12-01
         url: https://cmsa.fas.harvard.edu/event/representation-theory-calabi-yau-manifolds-and-mirror-symmetry/
+
+        
         
     
     Invited talks:
+      - entry_type: NormalEntry
+        name: "2025 International Congress of Chinese Mathematicians"
+        date: 2026-01
+        location: Shanghai
+        summary: "Title: Mirror symmetry for singular double cover Calabi–Yau varieties: quantum test"
+        url: https://2025iccm.simis.cn/iccm2025/site/
+
+      - entry_type: NormalEntry
+        name: "Korea-Taiwan Enumerative Geometry Meeting 2025"
+        date: 2025-11
+        location: NCKU
+        summary: "Title: GKZ systems and their solutions"
+        url: https://idv.sinica.edu.tw/ypleemath/kteg_2025/
+        
+      - entry_type: NormalEntry
+        name: "The 1st cross-strait symplectic geometry conference"
+        date: 2024-12
+        location: USTC
+        summary: "Title: Mirror duality between singular Calabi–Yau varieties: the trivial nef-partition case"
+        url: https://igp.ustc.edu.cn/2024/1203/c28837a662737/page.htm
+
       - entry_type: NormalEntry
         name: "Mirror Symmetry and Related Topics"
         date: 2024-01
