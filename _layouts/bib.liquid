@@ -164,10 +164,6 @@
       {% if entry.pages %}
         {% capture entrytype %}{{ entrytype }}, pp. {{ entry.pages }}{% endcapture %}
       {% endif %}
-<!--    
-    {% if entry.type == 'article' %}
-      {% capture entrytype %}<em>{{ entry.journal }}</em>{% endcapture %} 
--->
     {% elsif proceedings contains entry.type %}
       {% capture entrytype %}<em>In {{ entry.booktitle }}</em>{% endcapture %}
     {% elsif thesis contains entry.type %}
@@ -408,3 +404,10 @@
     {% endif %}
   </div>
 </div>
+
+
+
+<!-- Line 167   
+    {% if entry.type == 'article' %}
+      {% capture entrytype %}<em>{{ entry.journal }}</em>{% endcapture %} 
+-->
