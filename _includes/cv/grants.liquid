@@ -62,7 +62,7 @@
           
           {% comment %} FIX 3: Wrapped authors in an <h6> tag for proper formatting {% endcomment %}
           {%- if entry.authors -%}
-            <h6 style="font-size: 0.95rem;"><em>{{ entry.authors | array_to_sentence_string }}</em></h6>
+            <h6 style="font-size: 0.85rem;">{{ entry.authors | array_to_sentence_string }}</h6>
           {%- endif -%}
           
           {% if entry.summary %}
