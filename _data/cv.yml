@@ -257,10 +257,10 @@ cv:
     
     Invited talks:
       - entry_type: NormalEntry
-        name: "On periods of Calabi--Yau fractional complete intersections"
-        event: "Mirror Symmetry and Related Topics"
+        name: "Mirror Symmetry and Related Topics"
         date: 2024-01
         location: KIAS
+        summary: "Title: <em>On periods of Calabi-Yau fractional complete intersections</em>"
         url: http://events.kias.re.kr/h/msrt24/?pageNo=5317
 
 
