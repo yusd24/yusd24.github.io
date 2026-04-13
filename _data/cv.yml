@@ -285,28 +285,28 @@ cv:
         name: "2025 International Congress of Chinese Mathematicians"
         date: 2026-01
         location: Shanghai
-        summary: "Title: Mirror symmetry for singular double cover Calabi–Yau varieties: quantum test"
+        summary: "Title: *Mirror symmetry for singular double cover Calabi–Yau varieties: quantum test*"
         url: https://2025iccm.simis.cn/iccm2025/site/
 
       - entry_type: NormalEntry
         name: "Korea-Taiwan Enumerative Geometry Meeting 2025"
         date: 2025-11
         location: NCKU
-        summary: "Title: GKZ systems and their solutions"
+        summary: "Title: *GKZ systems and their solutions*"
         url: https://idv.sinica.edu.tw/ypleemath/kteg_2025/
         
       - entry_type: NormalEntry
         name: "The 1st cross-strait symplectic geometry conference"
         date: 2024-12
         location: USTC
-        summary: "Title: Mirror duality between singular Calabi–Yau varieties: the trivial nef-partition case"
+        summary: "Title: *Mirror duality between singular Calabi–Yau varieties: the trivial nef-partition case*"
         url: https://igp.ustc.edu.cn/2024/1203/c28837a662737/page.htm
 
       - entry_type: NormalEntry
         name: "Mirror Symmetry and Related Topics"
         date: 2024-01
         location: KIAS
-        summary: "Title: On periods of Calabi-Yau fractional complete intersections"
+        summary: "Title: *On periods of Calabi-Yau fractional complete intersections*"
         url: http://events.kias.re.kr/h/msrt24/?pageNo=5317
       
       - entry_type: NormalEntry
@@ -320,14 +320,14 @@ cv:
         name: "Calabi-Yau manifolds and mirror symmetry - Past, Present, and Future -"
         date: 2022-08
         location: Gakushuin U
-        summary: "Title: On the solutions to GKZ D-modules with fractional parameters"
+        summary: "Title: *On the solutions to GKZ D-modules with fractional parameters*"
         url: https://sites.google.com/view/cyms2022/home?authuser=0
       
       - entry_type: NormalEntry
         name: "Simons Collaboration on HMS Annual Meeting 2021"
         date: 2021-11
         location: Simons Foundation
-        summary: "Title: Mirror duality between Calabi–Yau fractional complete intersections"
+        summary: "Title: *Mirror duality between Calabi–Yau fractional complete intersections*"
         url: https://www.simonsfoundation.org/event/simons-collaboration-on-homological-mirror-symmetry-annual-meeting-2021/
 
       - entry_type: NormalEntry
