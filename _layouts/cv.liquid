@@ -166,9 +166,12 @@ layout: default
               {% elsif section_title == 'Grants' %}
                 {% assign entries = section_entries %}
                 {% include cv/grants.liquid %}
-             {% elsif section_title == 'Conferences/workshops organized' %}
+              {% elsif section_title == 'Conferences/workshops organized' %}
                 {% assign entries = section_entries %}
                 {% include cv/conferences_workshops_organized.liquid %}
+              {% elsif section_title == 'Invited talks' %}
+                {% assign entries = section_entries %}
+                {% include cv/invited_talks.liquid %}
               {% elsif section_title == 'Skills' %}
                 {% assign entries = section_entries %}
                 {% include cv/skills.liquid %}
