@@ -46,14 +46,8 @@
         {% comment %} Right Column: The Text Content {% endcomment %}
         <div class="col-xs-10 col-sm-10 col-md-10 mt-2 mt-md-0">
           
-          {% comment %} Title with Margin-Left {% endcomment %}
-          {% if entry.url %}
-            <h6 class="title font-weight-bold ml-1 ml-md-4">
-              <a href="{{ entry.url }}" target="_blank">{{ entry.name }}</a>
-            </h6>
-          {% else %}
-            <h6 class="title font-weight-bold ml-1 ml-md-4">{{ entry.name }}</h6>
-          {% endif %}
+          {% comment %} Title (Separated from the Link) {% endcomment %}
+          <h6 class="title font-weight-bold ml-1 ml-md-4">{{ entry.name }}</h6>
           
           {% comment %} Authors with Margin-Left {% endcomment %}
           {%- if entry.authors -%}
@@ -80,6 +74,15 @@
                 </li>
               {% endfor %}
             </ul>
+          {% endif %}
+
+          {% comment %} NEW: Link displayed at the bottom, aligned left {% endcomment %}
+          {% if entry.url %}
+            <div class="mt-2" style="font-size: 0.85rem;">
+              <a href="{{ entry.url }}" target="_blank">
+                <i class="fa-solid fa-link"></i> {{ entry.url }}
+              </a>
+            </div>
           {% endif %}
           
         </div>
