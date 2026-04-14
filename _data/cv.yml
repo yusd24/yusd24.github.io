@@ -281,7 +281,7 @@ cv:
         
     
     Invited talks:
-      - entry_type: PublicationEntry
+      - entry_type: NormalEntry
         title: "2025 International Congress of Chinese Mathematicians"
         date: 2026-01
         location: Shanghai
