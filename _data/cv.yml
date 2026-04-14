@@ -242,8 +242,8 @@ cv:
         summary: The AMS Simons Travel Grant is a grant awarded to early-career faculty who have the potential to serve as academic role models in research and education.
 
     Conferences/workshops organized:
-      - entry_type: PublicationEntry
-        title: "Geometry crossing singularities"
+      - entry_type: NormalEntry
+        name: "Geometry crossing singularities"
         authors:
          - Wu-yen Chuang
          - Tsung-Ju Lee 
