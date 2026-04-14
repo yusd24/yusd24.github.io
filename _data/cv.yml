@@ -86,7 +86,7 @@ cv:
         url: https://arxiv.org/abs/2507.00633
         summary: ""
 
-      - title: 'A supplement to the anticanonical volumes of weak **Q**-Fano threefolds of Picard rank two'
+      - title: 'A supplement to the anticanonical volumes of weak Q-Fano threefolds of Picard rank two'
         authors:
         - Ching-Jui Lai 
         - Tsung-Ju Lee 
@@ -106,7 +106,7 @@ cv:
         summary: ""
 
     Publications:
-      - title: 'Finite distance problem on the moduli of non-Kähler Calabi--Yau ∂∂̄-threefolds'
+      - title: 'Finite distance problem on the moduli of non-Kähler Calabi--Yau $\partial\bar{\partial}$-threefolds'
         authors: 
         - Tsung-Ju Lee
         publisher: Math. Ann. <b>392</b> (2025), 1541-1583
