@@ -10,19 +10,19 @@ time: Wednesdays 10:10AM-12:00PM and Fridays 9:00AM-9:50AM
 course_id: 2026_Spring_Calulus_CS
 ---
 
-## Course Overview
+### Course Overview
 
 This course provides a comprehensive introduction to Calculus on multivariate functions.
 
-## Prerequisites
+### Prerequisites
 
 - Calculus (1)
 
-## Textbooks
+### Textbooks
 
 - Calculus: one and several variables, Saturnino L. Salas, Einar Hille, and Garret J. Etgen, 2021, 10E, 978-1-119-77067-1, John Wiley & Sons Singapore Pte. Ltd.
 
-## Grading
+### Grading
 
 - Quiz: 16%
 - Midterm: 32%
