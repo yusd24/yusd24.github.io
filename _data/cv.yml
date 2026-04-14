@@ -282,7 +282,7 @@ cv:
     
     Invited talks:
       - entry_type: NormalEntry
-        title: "2025 International Congress of Chinese Mathematicians"
+        name: "2025 International Congress of Chinese Mathematicians"
         date: 2026-01
         location: Shanghai
         summary: "Title: *Mirror symmetry for singular double cover Calabi–Yau varieties: quantum test*"
