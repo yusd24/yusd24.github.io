@@ -65,7 +65,7 @@ cv:
         summary: "Completed mandatory military service in Taiwan."
 
     Preprints:
-      - title: "Mirror symmetry for singular double cover Calabi--Yau varieties: quantum test"
+      - title: 'Mirror symmetry for singular double cover Calabi--Yau varieties: quantum test'
         authors:
         - Tsung-Ju Lee
         - Bong H. Lian
@@ -254,7 +254,7 @@ cv:
         url: https://www.tims.ntu.edu.tw/modules/news/article.php?storyid=3972
 
       - entry_type: NormalEntry
-        name: "2023 TIMS Seminar in Algebraic Geometry: Calabi-Yau with small parameters"
+        name: '2023 TIMS Seminar in Algebraic Geometry: Calabi--Yau with small parameters'
         authors:
          - You-Cheng Chou 
          - Tsung-Ju Lee 
@@ -296,7 +296,7 @@ cv:
         url: https://idv.sinica.edu.tw/ypleemath/kteg_2025/
         
       - entry_type: NormalEntry
-        name: "The 1st cross-strait symplectic geometry conference"
+        name: "The 1st Cross-Strait Symplectic Geometry Conference"
         date: 2024-12
         location: USTC
         summary: "Title: *Mirror duality between singular Calabi–Yau varieties: the trivial nef-partition case*"
@@ -317,7 +317,7 @@ cv:
         url: https://sites.google.com/view/2023-easc/home
       
       - entry_type: NormalEntry
-        name: "Calabi-Yau manifolds and mirror symmetry - Past, Present, and Future -"
+        name: 'Calabi--Yau manifolds and mirror symmetry - Past, Present, and Future -'
         date: 2022-08
         location: Gakushuin U
         summary: "Title: *On the solutions to GKZ D-modules with fractional parameters*"
