@@ -24,5 +24,3 @@ Schedules for seminars, workshops, or conferences.
       </iframe>
     </div>
   </div>
-
-{% include seminars.liquid %}
