@@ -25,7 +25,7 @@ cv:
         start_date: 2010-08-01
         end_date: 2016-06-30
         highlights:
-          - "Advisor: Professor Chin-Lung Wang and Professor Hui-Wen Lin"
+          - "Advisor: Professors Chin-Lung Wang and Hui-Wen Lin"
           - "Dissertation: *Geometry arising from periods of Calabi--Yau degenerations and transitions*"
 
       - institution: National Taiwan University
@@ -38,7 +38,7 @@ cv:
     Experience:  
       - company: National Cheng Kung University
         department: Department of Mathematics
-        position: Assistant professor
+        position: Assistant Professor
         location: Tainan, Taiwan
         start_date: 2023-09-01
 
