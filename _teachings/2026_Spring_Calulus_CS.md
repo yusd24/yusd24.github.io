@@ -96,7 +96,7 @@ schedule:
     topic: Quiz (II). Vector Calculus (V)
     description: Stokes' theorem; divergence theorem.
     materials:
-      - name: Quiz (II) covers materials from Week 9 to Week 12.
+      - name: Quiz (II) covers materials from Week 9 to Week 11.
       - name: '17.10 & 17.8 - 17.9'
 
   - week: 14
