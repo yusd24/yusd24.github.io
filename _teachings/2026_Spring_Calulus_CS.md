@@ -51,7 +51,7 @@ schedule:
       - name: '16.2 - 16.3 & 16.6 - 16.7'
   
   - week: 7
-    date: Apr 8, Apr 10
+    date: Apr 10
     topic: Integral Calculus for multivariate functions (II)
     description: Double and triple integrals as limits of Riemann sums; polar coordinate revisited; cylindrical coordinates and spherical coordinates. 
     materials:
