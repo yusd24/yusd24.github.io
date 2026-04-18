@@ -10,7 +10,7 @@ nav_order: 5
 Schedules for seminars, workshops, or conferences.
 
   <div class="post mt-4">
-    <h2 class="mb-3"><i class="fas fa-calendar-alt"></i> Upcoming Events</h2>
+    <h4 class="mb-3"><i class="fas fa-calendar-alt"></i> Upcoming Events</h4>
 
     <div class="calendar-wrapper" id="calendar-container" style="display: none;">
       <iframe
