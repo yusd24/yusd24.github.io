@@ -21,41 +21,49 @@ schedule:
     description: Functions of several variables; partial derivatives; open and closed sets; limits and continuity.
     materials:
       - name: 'Reading: Chap. 14'
+
  - week: 3
-    date: Mar 11, Mar 13
-    topic: Differential Calculus for multivariate functions (I)
-    description: Differentiability and gradient; directional derivatives; mean-value theorem; the chain rule.
-    materials:
-      - name: 'Reading: 15.1 - 15.3'
+   date: Mar 11, Mar 13
+   topic: Differential Calculus for multivariate functions (I)
+   description: Differentiability and gradient; directional derivatives; mean-value theorem; the chain rule.
+   materials:
+    - name: 'Reading: 15.1 - 15.3'
+
 - week: 4
-    date: Mar 18, Mar 20
-    topic: Differential Calculus for multivariate functions (II)
-    description: Tangent lines and tangent planes; local extreme values; absolute extreme values.
-      - name: 'Reading: 15.4 - 15.6'
+  date: Mar 18, Mar 20
+  topic: Differential Calculus for multivariate functions (II)
+  description: Tangent lines and tangent planes; local extreme values; absolute extreme values.
+  materials:
+    - name: 'Reading: 15.4 - 15.6'
+  
 - week: 5
-    date: Mar 25, Mar 27
-    topic: Differential Calculus for multivariate functions (III)
-    description: Maxima and minima with side conditions; Lagrange multiplier; reconstructing a function from its gradient.
-    materials:
-      - name: 'Reading: 15.7 - 15.9'
+  date: Mar 25, Mar 27
+  topic: Differential Calculus for multivariate functions (III)
+  description: Maxima and minima with side conditions; Lagrange multiplier; reconstructing a function from its gradient.
+  materials:
+    - name: 'Reading: 15.7 - 15.9'
+  
 - week: 6
-    date: Apr 1
-    topic: Integral Calculus for multivariate functions (I)
-    description: Double integrals and triple integrals; evaluation of integrals by repeated integrals.
-    materials:
-      - name: 'Reading: 16.2 - 16.3 & 16.6 - 16.7'
+  date: Apr 1
+  topic: Integral Calculus for multivariate functions (I)
+  description: Double integrals and triple integrals; evaluation of integrals by repeated integrals.
+  materials:
+    - name: 'Reading: 16.2 - 16.3 & 16.6 - 16.7'
+  
 - week: 7
-    date: Apr 8, Apr 10
-    topic: Integral Calculus for multivariate functions (II)
-    description: Double and triple integrals as limits of Riemann sums; polar coordinate revisited; cylindrical coordinates and spherical coordinates. 
-    materials:
-      - name: 'Reading: 16.4 & 16.8 - 16.9'
+  date: Apr 8, Apr 10
+  topic: Integral Calculus for multivariate functions (II)
+  description: Double and triple integrals as limits of Riemann sums; polar coordinate revisited; cylindrical coordinates and spherical coordinates. 
+  materials:
+    - name: 'Reading: 16.4 & 16.8 - 16.9'
+  
 - week: 8
-    date: Apr 15, Apr 17
-    topic: Integral Calculus for multivariate functions (III)
-    description: Jacobians; change of variable formulae. 
-    materials:
-      - name: 'Reading: 16.10'
+  date: Apr 15, Apr 17
+  topic: Integral Calculus for multivariate functions (III)
+  description: Jacobians; change of variable formulae. 
+  materials:
+    - name: 'Reading: 16.10'
+
 ---
 
 #### Course Overview
