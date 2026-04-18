@@ -64,6 +64,65 @@ schedule:
     materials:
       - name: '16.10'
 
+  - week: 9
+    date: Apr 22, Apr 24
+    topic: Vector Calculus (I) and (II)
+    description: Line integrals; the fundamental theorem of line integrals; line integrals with respect to arc length.
+    materials:
+      - name: '17.1-17.2 & 17.4'
+     
+  - week: 10
+    date: Apr 29
+    topic: Midterm
+    description: The midterm exam covers material from Week 2 to Week 8.
+
+  - week: 11
+    date: May 6, May 8
+    topic: Vector Calculus (III)
+    description: Green's theorem; parametrized surfaces; surface area.
+    materials:
+      - name: '17.5 - 17.7'
+
+  - week: 12
+    date: May 13, May 15
+    topic: Vector Calculus (IV)
+    description: Surface integrals; Stokes' theorem.
+    materials:
+      - name: '17.7 & 17.10'
+
+  - week: 13
+    date: May 20, May 22
+    topic: Quiz (II). Vector Calculus (V)
+    description: Stokes' theorem; divergence theorem.
+    materials:
+      - name: Quiz (II) covers materials from Week 9 to Week 12.
+      - name: '17.10 & 17.8 - 17.9'
+
+ - week: 14
+    date: May 27, May 29
+    topic: Power series for univariate functions (I)
+    description: Infinite series; the integral test; the comparison test; the root test; the ratio test.
+    materials:
+      - name: '11.1 - 11.4'
+  
+ - week: 15
+    date: Jun 3, Jun 5
+    topic: Power series for univariate functions (II)
+    description: Absolute convergence and conditional convergence; alternating series; Taylor series.
+    materials:
+      - name: '11.5 - 11.7'
+
+ - week: 16
+    date: Jun 10, Jun 12
+    topic: Power series for univariate functions (III)
+    description: Power series; differentiation and integrations of power series.
+    materials:
+      - name: '11.8 - 11.9'
+
+ - week: 17
+    date: Jun 17
+    topic: Final Exam
+    description: It will covers all the materials from Week 9 to Week 15.
 ---
 
 #### Course Overview
