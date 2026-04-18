@@ -13,6 +13,43 @@ schedule:
     date: Feb 25
     topic: Curves in Euclidean space
     description: Calculus for vector-valued univariate functions; curves in space; arc length; curvature.
+    material: 13.1 - 13.5
+  - week: 2
+    date: Mar 4, Mar 6
+    topic: Functions of several variables
+    description: Functions of several variables; partial derivatives; open and closed sets; limits and continuity.
+    material: Chap. 14
+ - week: 3
+    date: Mar 11, Mar 13
+    topic: Differential Calculus for multivariate functions (I)
+    description: Differentiability and gradient; directional derivatives; mean-value theorem; the chain rule.
+    material: 15.1 - 15.3
+- week: 4
+    date: Mar 18, Mar 20
+    topic: Differential Calculus for multivariate functions (II)
+    description: Tangent lines and tangent planes; local extreme values; absolute extreme values.
+    material: 15.4 - 15.6
+- week: 5
+    date: Mar 25, Mar 27
+    topic: Differential Calculus for multivariate functions (III)
+    description: Maxima and minima with side conditions; Lagrange multiplier; reconstructing a function from its gradient.
+    material: 15.7 - 15.9
+- week: 6
+    date: Apr 1
+    topic: Integral Calculus for multivariate functions (I)
+    description: Double integrals and triple integrals; evaluation of integrals by repeated integrals.
+    material: 16.2 - 16.3 & 16.6 - 16.7
+- week: 7
+    date: Apr 8, Apr 10
+    topic: Integral Calculus for multivariate functions (II)
+    description: Double and triple integrals as limits of Riemann sums; polar coordinate revisited; cylindrical coordinates and spherical coordinates. 
+    material: 16.4 & 16.8 - 16.9
+- week: 8
+    date: Apr 15, Apr 17
+    topic: Integral Calculus for multivariate functions (III)
+    description: Jacobians; change of variable formulae. 
+    material: 16.10
+
 
 ---
 
