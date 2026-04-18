@@ -49,8 +49,6 @@ schedule:
     topic: Integral Calculus for multivariate functions (III)
     description: Jacobians; change of variable formulae. 
     materials: 16.10
-
-
 ---
 
 #### Course Overview
