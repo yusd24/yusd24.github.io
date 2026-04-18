@@ -98,21 +98,21 @@ schedule:
       - name: Quiz (II) covers materials from Week 9 to Week 12.
       - name: '17.10 & 17.8 - 17.9'
 
- - week: 14
+  - week: 14
     date: May 27, May 29
     topic: Power series for univariate functions (I)
     description: Infinite series; the integral test; the comparison test; the root test; the ratio test.
     materials:
       - name: '11.1 - 11.4'
   
- - week: 15
+  - week: 15
     date: Jun 3, Jun 5
     topic: Power series for univariate functions (II)
     description: Absolute convergence and conditional convergence; alternating series; Taylor series.
     materials:
       - name: '11.5 - 11.7'
 
- - week: 16
+  - week: 16
     date: Jun 10, Jun 12
     topic: Power series for univariate functions (III)
     description: Power series; differentiation and integrations of power series.
