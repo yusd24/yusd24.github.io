@@ -12,14 +12,6 @@ Schedules for seminars, workshops, or conferences.
   <div class="post mt-4">
     <h2 class="mb-3"><i class="fas fa-calendar-alt"></i> Upcoming Events</h2>
 
-    <button
-      class="btn btn-sm btn-outline-primary mb-3"
-      onclick="toggleCalendar()"
-      id="calendar-toggle-btn"
-    >
-      Show Calendar
-    </button>
-
     <div class="calendar-wrapper" id="calendar-container" style="display: none;">
       <iframe
         id="calendar-iframe"
@@ -33,4 +25,4 @@ Schedules for seminars, workshops, or conferences.
     </div>
   </div>
 
-{% include courses.liquid %}
+{% include seminars.liquid %}
