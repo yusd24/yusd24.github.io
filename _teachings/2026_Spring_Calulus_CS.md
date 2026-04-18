@@ -119,7 +119,7 @@ schedule:
     materials:
       - name: '11.8 - 11.9'
 
- - week: 17
+  - week: 17
     date: Jun 17
     topic: Final Exam
     description: It will covers all the materials from Week 9 to Week 15.
