@@ -2,9 +2,9 @@
 layout: course
 title: Calculus (2)
 description: 
-instructor: Tsung-Ju Lee
+instructor: Tsung-Ju Lee（李宗儒）
 year: 2026
-term: Spring
+term: Spring（春季）
 location: 經緯廳
 time: Wednesdays 10:10AM-12:00PM and Fridays 9:00AM-9:50AM
 course_id: 2026_Spring_Calulus_CS
