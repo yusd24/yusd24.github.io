@@ -461,8 +461,8 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
-            },},{id: "teachings-",
-          title: '',
+            },},{id: "teachings-calculus-2",
+          title: 'Calculus (2)',
           description: "",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/2026_Spring_Calulus_CS/";
