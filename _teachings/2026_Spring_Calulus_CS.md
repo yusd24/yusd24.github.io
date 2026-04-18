@@ -6,7 +6,8 @@ instructor: Tsung-Ju Lee（李宗儒）
 year: 2026
 term: Spring（春季）
 location: 經緯廳
-time: Wednesdays 10:10AM-12:00PM and Fridays 9:00AM-9:50AM
+time: Wednesdays 10:10AM - 12:00PM and Fridays 9:00AM - 9:50AM
+ta_time: Fridays 8:00AM - 8:50AM
 course_id: 2026_Spring_Calulus_CS
 schedule:
   - week: 1
