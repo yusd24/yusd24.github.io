@@ -28,10 +28,16 @@ latest_posts:
 ---
 
 I am currently an Assistant Professor in the Department of Mathematics at National Cheng Kung University, 
-having joined the faculty on September 1, 2023. Previously, I served as a Postdoctoral Fellow at the 
+having joined the faculty on September 1, 2023. 
+
+
+Previously, I served as a Postdoctoral Fellow at the 
 Center of Mathematical Sciences and Applications (CMSA) at Harvard University, starting in September 2018 
-under the mentorship of Professor Shing-Tung Yau. I earned my Ph.D. in Mathematics from National Taiwan University, 
+under the mentorship of Professor Shing-Tung Yau. 
+I earned my Ph.D. in Mathematics from National Taiwan University, 
 where I was supervised by Professors [Chin-Lung Wang](http://www.math.ntu.edu.tw/~dragon/) and [Hui-Wen Lin](http://www.math.ntu.edu.tw/%7Elinhw/).
+
+
 My research interests lie at the intersection of algebraic and complex geometry, with a 
 particular focus on the geometry of Calabi–Yau varieties, their moduli spaces, and their degenerations.
 
