@@ -51,7 +51,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/recommendation_letter/";
               },
-            },{id: "post-how-to-use-latex-installation",
+            },{id: "post-how-to-typeset-with-latex-a-walking-example",
+        
+          title: "How to typeset with Latex? A walking example",
+        
+        description: "A basic example",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/latex-typeset/";
+          
+        },
+      },{id: "post-how-to-use-latex-installation",
         
           title: "How to use Latex? Installation",
         
