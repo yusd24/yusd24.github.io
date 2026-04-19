@@ -55,11 +55,11 @@ ninja.data = [{
         
           title: "How to use Latex? Installation",
         
-        description: "",
+        description: "this is what included geojson code could look like",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/posts/2025-latex-installation";
+            window.location.href = "/blog/2026/latex-installation/";
           
         },
       },{id: "post-a-post-with-plotly-js",
