@@ -51,7 +51,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/recommendation_letter/";
               },
-            },{id: "post-a-post-with-plotly-js",
+            },{id: "post-how-to-use-latex-installation",
+        
+          title: "How to use Latex? Installation",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/posts/2025-latex-installation";
+          
+        },
+      },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
