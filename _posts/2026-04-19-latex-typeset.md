@@ -6,6 +6,8 @@ description: A basic example
 tags: latex
 categories: latex
 map: true
+toc:
+  sidebar: true
 ---
 
 這篇文章將介紹如何使用 Latex 排版；我們會介紹 .tex 文件的基本架構並利用一個例子來說明 Latex 的基本語法。
