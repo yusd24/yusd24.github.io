@@ -1,20 +1,11 @@
 ---
+layout: post
 title: How to use Latex? Installation
-output:
-  md_document:
-    variant: gfm+footnotes
-    preserve_yaml: TRUE
-knit: (function(inputFile, encoding) {
-  rmarkdown::render(inputFile, encoding = encoding, output_dir = "../_posts") })
-date: 2025-07-01
-permalink: /posts/2025-latex-installation
-excerpt_separator: <!--more-->
-always_allow_html: true
-toc: true
-header:
- og_image: ""
-tags:
-  - Latex
+date: 2026-04-19 
+description: this is what included geojson code could look like
+tags: latex
+categories: latex
+map: true
 ---
 
 Latex 是常用的排版工具。主要是應用在數學、理工科等符號與等式較多的文章排版。本文將簡單介紹如何在電腦上安裝 Latex。
