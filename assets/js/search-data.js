@@ -472,7 +472,7 @@ ninja.data = [{
           title: 'Calculus (2)',
           description: "",
           section: "Teachings",handler: () => {
-              window.location.href = "/teachings/2026_Spring_Calulus_CS/";
+              window.location.href = "/teachings/2026_Spring_Calculus_CS/";
             },},{
         id: 'social-cv',
         title: 'CV',
