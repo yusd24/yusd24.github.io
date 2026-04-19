@@ -2,7 +2,7 @@
 layout: post
 title: How to use Latex? Installation
 date: 2026-04-19 
-description: this is what included geojson code could look like
+description: Installation
 tags: latex
 categories: latex
 map: true
