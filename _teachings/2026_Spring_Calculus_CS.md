@@ -123,7 +123,7 @@ schedule:
   - week: 17
     date: Jun 17
     topic: Final Exam
-    description: It will covers all the materials from Week 9 to Week 15.
+    description: It will covers all the materials from Week 9 to Week 16.
 ---
 
 #### Course Overview
