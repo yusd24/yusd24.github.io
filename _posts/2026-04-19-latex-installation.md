@@ -7,7 +7,7 @@ tags: latex
 categories: latex
 map: true
 toc:
-  beginning: true
+  sidebar: true
 ---
 
 Latex 是常用的排版工具。主要是應用在數學、理工科等符號與等式較多的文章排版。本文將簡單介紹如何在電腦上安裝 Latex。
