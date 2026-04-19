@@ -38,7 +38,7 @@ ninja.data = [{
             window.location.href = "/seminar/";
           },
         },{id: "nav-blog",
-          title: "blog",
+          title: "Blog",
           description: "",
           section: "Navigation",
           handler: () => {
