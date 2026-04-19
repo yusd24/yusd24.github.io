@@ -51,7 +51,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/recommendation_letter/";
               },
-            },{id: "post-how-to-typeset-with-latex-a-walking-example",
+            },{id: "post-singular-value-theorem-for-linear-transformations",
+        
+          title: "Singular value theorem for linear transformations",
+        
+        description: "SVD explained",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/svd/";
+          
+        },
+      },{id: "post-how-to-typeset-with-latex-a-walking-example",
         
           title: "How to typeset with Latex? A walking example",
         
