@@ -55,7 +55,7 @@ ninja.data = [{
         
           title: "How to use Latex? Installation",
         
-        description: "this is what included geojson code could look like",
+        description: "Installation",
         section: "Posts",
         handler: () => {
           
