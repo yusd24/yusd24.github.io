@@ -254,7 +254,7 @@ cv:
         url: https://www.tims.ntu.edu.tw/modules/news/article.php?storyid=3972
 
       - entry_type: NormalEntry
-        name: '2023 TIMS Seminar in Algebraic Geometry: Calabi--Yau with small parameters'
+        name: '2023 TIMS Seminar in Algebraic Geometry: Calabi–Yau with small parameters'
         authors:
          - You-Cheng Chou 
          - Tsung-Ju Lee 
@@ -266,7 +266,7 @@ cv:
         url: https://www.tims.ntu.edu.tw/modules/news/article.php?storyid=4129
 
       - entry_type: NormalEntry
-        name: "Representation Theory, Calabi-–Yau Manifolds, and Mirror Symmetry"
+        name: "Representation Theory, Calabi–Yau Manifolds, and Mirror Symmetry"
         authors:
          - An Huang 
          - Siu-Cheong Lau
