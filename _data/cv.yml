@@ -266,7 +266,7 @@ cv:
         url: https://www.tims.ntu.edu.tw/modules/news/article.php?storyid=4129
 
       - entry_type: NormalEntry
-        name: "Representation Theory, Calabi–Yau Manifolds, and Mirror Symmetry"
+        name: "Representation Theory, Calabi-–Yau Manifolds, and Mirror Symmetry"
         authors:
          - An Huang 
          - Siu-Cheong Lau
@@ -282,7 +282,7 @@ cv:
     
     Invited talks:
       - entry_type: NormalEntry
-        name: "Special Geometry, *D*-modules, and Modular Forms"
+        name: "Special Geometry, D-modules, and Modular Forms"
         date: 2026-04
         location: Taipei
         summary: "Title: *Mirror duality between Calabi--Yau double covers*"
