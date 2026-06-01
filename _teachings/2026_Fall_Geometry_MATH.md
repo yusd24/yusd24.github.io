@@ -11,11 +11,11 @@ ta_time: Tuesdays 8:00AM - 8:50AM
 course_id: 2026_Fall_Geometry_MATH
 schedule:
   - week: 1
-    date: 
-    topic: 
-    description: 
-    materials:
-      - name: 
+    date: 9/8, 9/10
+    topic: Curves in 3-dimensional Euclidean space
+    description: Parameterized curves; arc-length parameterization
+    materials: 
+      - name: [dC] 1.1-1.4
 ---
 
 #### Course Overview
