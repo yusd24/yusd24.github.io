@@ -15,7 +15,7 @@ schedule:
     topic: Curves in 3-dimensional Euclidean space
     description: Parameterized curves; arc-length parameterization
     materials: 
-      - name: [dC] 1.1-1.4
+      - name: \[dC\] 1.1-1.4
 ---
 
 #### Course Overview
@@ -28,7 +28,7 @@ This course provides a comprehensive introduction to differential geometry.
 
 #### Textbooks
 
-- Differential geometry of curves and surfaces, Manfredo P. do Carmo.
+- \[dC\] Differential geometry of curves and surfaces, Manfredo P. do Carmo.
 - Modern Geometry - Methods and Applications. Part I. The Geometry of Surfaces, Transformation Groups, and Fields, B.A. Dubrovin, A.T. Fomenko, and S.P. Novikov.
 
 #### Grading
