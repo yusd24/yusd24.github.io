@@ -15,7 +15,7 @@ schedule:
     topic: Curves in 3-dimensional Euclidean space
     description: Parameterized curves; arc-length parameterization
     materials: 
-      - name: \[dC\] 1.1-1.4
+      - name: "[dC] 1.1-1.4"
 ---
 
 #### Course Overview
