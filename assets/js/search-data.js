@@ -160,6 +160,11 @@ ninja.data = [{
           description: "",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/2026_Spring_Calculus_CS/";
+            },},{id: "teachings-geometry-2",
+          title: 'Geometry (2)',
+          description: "",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/2027_Spring_Geometry2_MATH/";
             },},{
         id: 'social-cv',
         title: 'CV',
