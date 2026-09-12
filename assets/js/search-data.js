@@ -145,8 +145,8 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
-            },},{id: "teachings-geometry-1",
-          title: 'Geometry (1)',
+            },},{id: "teachings-",
+          title: '',
           description: "",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/2026_Fall_Geometry_MATH/";
