@@ -65,6 +65,14 @@ cv:
         summary: "Completed mandatory military service in Taiwan."
 
     Preprints:
+      - title: 'On the hyperplane conjecture'
+        authors:
+        - Tsung-Ju Lee
+        date: "2026-10-20"
+        journal: arXiv
+        url: https://arxiv.org/pdf/2610.26186v1
+        summary: ""
+    
       - title: 'Mirror symmetry for singular double cover Calabi--Yau varieties: quantum test'
         authors:
         - Tsung-Ju Lee
