@@ -5,7 +5,7 @@ nav: true
 nav_order: 8
 dropdown: true
 children:
-  - title: Recommendation Letter
+  - title: Letters
     permalink: /recommendation_letter/
 ---
 
