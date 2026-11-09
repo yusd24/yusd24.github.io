@@ -70,7 +70,7 @@ cv:
         - Tsung-Ju Lee
         date: "2026-10-20"
         journal: arXiv
-        url: https://arxiv.org/pdf/2610.26186v2
+        url: https://arxiv.org/pdf/2610.26186
         summary: ""
     
       - title: 'Mirror symmetry for singular double cover Calabi--Yau varieties: quantum test'
@@ -237,7 +237,7 @@ cv:
         start_date: 2026-08-01
         end_date: 2029-07-31
         awarder: National Science and Technology Council (NSTC)
-        summary: "Grant Number: 115-2115-M-006-013-MY3"
+        summary: "Grant Number: NSTC 115-2115-M-006-013-MY3"
         url: https://www.nstc.gov.tw
         
       - entry_type: NormalEntry
@@ -383,7 +383,7 @@ design:
     right_margin: 0.9in
   # Override theme defaults:
   colors:
-    body: rgb(0, 0, 0)              # Main body text
+    body: rgb(0, 0, 0)               # Main body text
     name: rgb(0, 79, 144)            # Your name in header
     headline: rgb(0, 79, 144)        # Headline text
     connections: rgb(0, 79, 144)     # Email, phone, links
