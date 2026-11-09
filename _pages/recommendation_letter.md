@@ -18,7 +18,9 @@ to are closely related to mathematics, my letter may be beneficial to your appli
 If you would like to request a recommendation letter, please follow the guidelines below
 
 <details>
-<summary>學生在某些時候，可能會需要一封來自老師的推薦信。在我的求學與求職生涯中，我的老師們曾花費大量時間和精力為我撰寫推薦信，因此我也非常嚴肅地看待這項工作。
+<summary><b>中文版說明 (點擊展開)</b></summary>
+  
+學生在某些時候，可能會需要一封來自老師的推薦信。在我的求學與求職生涯中，我的老師們曾花費大量時間和精力為我撰寫推薦信，因此我也非常嚴肅地看待這項工作。
 
 我樂意幫忙撰寫推薦信，協助學生申請不同類型的職位，包含研究所、轉學、暑期研究計畫等。
 
@@ -26,7 +28,6 @@ If you would like to request a recommendation letter, please follow the guidelin
 
 如果你（妳）希望我幫忙撰寫推薦信，請遵循以下準則：
 
-</summary>
 </details>
 
 ---
@@ -41,14 +42,15 @@ Please email me at least four weeks before your first deadline. Your email must 
 - Specific instructions on how the recommendation letters should be submitted.
 
 <details>
-<summary>請在第一個截止日期至少前四週寄電子郵件給我。信中必須包含：
+<summary><b>中文版說明 (點擊展開)</b></summary>
+  
+  請在第一個截止日期至少前四週寄電子郵件給我。信中必須包含：
 
 - 確認你（妳）已閱讀過本頁內容。
 - 如果我們有段時間沒見了，請提醒我你（妳）是誰，以及我們是如何認識的。
 - 一份你（妳）正在申請的計畫清單及其各自的截止日期。
 - 如何提交推薦信的具體說明。
 
-</summary>
 </details>
 
 ---
@@ -62,13 +64,14 @@ Once I reply agreeing to write the letter, I may ask you to provide additional m
 Additionally, depending on the nature of your application, I may schedule an online or in-person meeting with you if necessary.
 
 <details>
-<summary>在我回覆同意後，我可能會請你（妳）額外提供以下資料：
+<summary><b>中文版說明 (點擊展開)</b></summary>
+  
+在我回覆同意後，我可能會請你（妳）額外提供以下資料：
 
 - 部分申請文件，例如研究計劃（research statement）草稿。
 
 此外，根據你（妳）申請的內容，若有需要，我也可能會安排一次線上或實體討論。
 
-</summary>
 </details>
 
 ---
@@ -82,9 +85,10 @@ of your applications. Even if the results are not what you hoped for, please kee
 I may still be able to offer some follow-up advice.
 
 <details>
-<summary>
+<summary><b>中文版說明 (點擊展開)</b></summary>
+  
   歡迎你（妳）在截止日期前不厭其煩的寄信提醒我！當我寄出推薦信時，我也會發電子郵件通知你（妳）。最後，請務必告知我申請的結果；即使申請結果不如預期，也請通知我。我也許能提供一些後續的建議。
-</summary>
+  
 </details>
 
 ---
