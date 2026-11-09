@@ -229,6 +229,17 @@ cv:
         date: 2018-07-01
 
     Grants:
+
+      - entry_type: NormalEntry
+        name: "National Science and Technology Council (NSTC) Research Grant"
+        authors: 
+          - "PI: Tsung-Ju Lee (李宗儒)"
+        start_date: 2026-08-01
+        end_date: 2029-07-31
+        awarder: National Science and Technology Council (NSTC)
+        summary: "Grant Number: 115-2115-M-006-013-MY3"
+        url: https://www.nstc.gov.tw
+        
       - entry_type: NormalEntry
         name: "National Science and Technology Council (NSTC) Research Grant"
         authors: 
