@@ -48,7 +48,7 @@ Additionally, depending on the nature of your application, I may schedule an onl
 Feel free to send me email reminders as the deadline approaches—you won't be bothering me! 
 I will also notify you via email once I have submitted your letter. Finally, please be sure to let me know the outcome 
 of your applications. Even if the results are not what you hoped for, please keep me updated; 
-I may still be able to offer some follow-up advice.
+I may still be able to offer some further advice.
 
 
 ---
