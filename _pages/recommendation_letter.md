@@ -35,7 +35,7 @@ Please email me at least four weeks before your first deadline. Your email must 
 
 Once I reply agreeing to write the letter, I may ask you to provide additional materials, such as:
 
-- Drafts of your application materials (e.g., your research statement).
+- Drafts of your application materials (e.g., your research statement, transcript).
 
 Additionally, depending on the nature of your application, I may schedule an online or in-person meeting with you if necessary.
 
@@ -45,8 +45,8 @@ Additionally, depending on the nature of your application, I may schedule an onl
   
 #### Reminders and follow-up
 
-Feel free to send me email reminders as the deadline approaches—you won't be bothering me! 
-I will also notify you via email once I have submitted your letter. Finally, please be sure to let me know the outcome 
+Feel free to send me email reminders as the deadline approaches — you won't be bothering me! 
+I will also notify you via email once I have submitted your letter. Finally, please keep me posted and let me know the outcome 
 of your applications. Even if the results are not what you hoped for, please keep me updated; 
 I may still be able to offer some further advice.
 
