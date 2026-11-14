@@ -5,7 +5,7 @@ title: "Letters of Recommendation"
 
 ---
 
-At various points in your academic journey, you may need a letter of recommendation from a professor. 
+At various points in your academic journey, you may need a letter of recommendation from a teacher or a mentor. 
 Throughout my own experiences, my mentors spent a significant amount of time and energy writing recommendation 
 letters for me, so I take this responsibility very seriously. 
 
